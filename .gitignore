@@ -1,0 +1,12 @@
+# Research downloads and original personal planning documents
+asset-staging/
+먹고걷고/
+# One-off content migration scripts; data/*.json is the source of truth
+author-courses.mjs
+expand-site.mjs
+node_modules/
+*.log
+.env
+.env.*
+Thumbs.db
+.DS_Store

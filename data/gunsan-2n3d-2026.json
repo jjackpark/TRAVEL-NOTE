@@ -1,0 +1,344 @@
+{
+  "id": "gunsan-2n3d-2026",
+  "order": 6,
+  "city": "군산",
+  "region": "전라",
+  "title": "군산, 오래된 거리와 따뜻한 한 그릇",
+  "drive": "약 2.5–3.5시간",
+  "english": "GUNSAN",
+  "kicker": "OLD STREETS, NEW MEMORIES",
+  "themes": [
+    "역사",
+    "맛집",
+    "카페",
+    "산책"
+  ],
+  "season": [
+    "가을",
+    "사계절"
+  ],
+  "summary": "초원사진관 앞에서 사진 한 장. 맑은 무국과 빵, 호수 산책으로 채우는 구도심 여행.",
+  "distance_from_suwon": "차량 약 2.5–3.5시간 · 휴게·정체 시 추가",
+  "parking": "숙소 주차 + 관광지 공영주차장 중심 · 실제 이용 가능 여부 미확인",
+  "hero_photo": {
+    "url": "images/gunsan-hero.jpg",
+    "alt": "군산 초원사진관",
+    "caption": "군산 초원사진관",
+    "credit": "Trip.com 여행자 사진",
+    "source": "https://kr.trip.com/moments/detail/gunsan-14766-14016163/",
+    "note": "자료 사진으로 방문 시 풍경·메뉴 구성과 다를 수 있어요. 사진 출처에서 촬영 맥락을 확인할 수 있어요."
+  },
+  "hotness": {
+    "score": null,
+    "sources_count": 5,
+    "last_verified": null,
+    "signals": []
+  },
+  "research_note": "2026.09.17 관광 자료·메뉴 안내 참고 · 실제 방문 및 실시간 영업 확인 전 · 시간과 동선은 편집한 여행 제안",
+  "sources": [
+    {
+      "label": "한일옥 · 참고 자료",
+      "url": "https://www.tripinfo.co.kr/info.html?content_id=2569127&content_type_id=39"
+    },
+    {
+      "label": "은파호수 주변 저녁 · 참고 자료",
+      "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=eeedc96a-3e8b-419d-89eb-b8966e73fd41"
+    },
+    {
+      "label": "복성루 · 참고 자료",
+      "url": "https://event.tmap.co.kr/comm/tmapspider/gunsan.html"
+    },
+    {
+      "label": "이성당 · 참고 자료",
+      "url": "https://www.korea.kr/news/reporterView.do?newsId=148970469"
+    },
+    {
+      "label": "지린성 · 참고 자료",
+      "url": "https://www.ktourmap.com/spotDetails.jsp?contentId=2778843"
+    }
+  ],
+  "stay": {
+    "area": "월명동·영화동 구도심",
+    "type": "2인 숙소 · 미선정",
+    "note": "월명동·영화동 구도심에서 2박 연박을 권해요. 숙소는 아직 정하지 않았으며, 주차·조식·체크인 시간은 예약 전에 확인하세요."
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": "사진관 앞에서 시작하는 여행",
+      "area": "초원사진관 · 근대문화거리",
+      "steps": [
+        {
+          "time": "12:00",
+          "type": "점심",
+          "name": "한일옥",
+          "one_liner": "맑은 소고기무국을 먹고 구도심 산책을 시작해요.",
+          "walk_note": "도보 약 2–5분 → 초원사진관",
+          "verified": false,
+          "detail": {
+            "what": "맑은 소고기무국을 먹고 구도심 산책을 시작해요.",
+            "menu": [
+              "소고기무국"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "주차 가능 공간이 제한적이므로 인근 공영주차장도 확인해요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://www.tripinfo.co.kr/info.html?content_id=2569127&content_type_id=39"
+          },
+          "photo": {
+            "url": "images/gunsan-food.jpg",
+            "alt": "한일옥 소고기무국",
+            "caption": "한일옥 소고기무국",
+            "credit": "여행자의 집",
+            "source": "https://blog.naver.com/sanmaru_007/223509716006",
+            "note": "자료 사진으로 방문 시 풍경·메뉴 구성과 다를 수 있어요. 사진 출처에서 촬영 맥락을 확인할 수 있어요."
+          }
+        },
+        {
+          "time": "13:30",
+          "type": "산책",
+          "name": "초원사진관·구도심 골목",
+          "one_liner": "사진관 외관을 보고 주변의 오래된 거리를 걸어요.",
+          "walk_note": "도보 약 10–15분 → 카페",
+          "verified": false,
+          "detail": {
+            "what": "사진관 외관을 보고 주변의 오래된 거리를 걸어요.",
+            "menu": [
+              "외관 사진과 골목 산책"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "사진관 내부 운영 여부와 촬영 대기를 확인하세요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=eeedc96a-3e8b-419d-89eb-b8966e73fd41"
+          },
+          "photo": {
+            "url": "images/gunsan-hero.jpg",
+            "alt": "군산 초원사진관",
+            "caption": "군산 초원사진관",
+            "credit": "Trip.com 여행자 사진",
+            "source": "https://kr.trip.com/moments/detail/gunsan-14766-14016163/",
+            "note": "자료 사진으로 방문 시 풍경·메뉴 구성과 다를 수 있어요. 사진 출처에서 촬영 맥락을 확인할 수 있어요."
+          }
+        },
+        {
+          "time": "15:00",
+          "type": "카페",
+          "name": "근대문화거리 카페",
+          "one_liner": "오래된 건물들이 이어지는 거리에서 커피를 마셔요.",
+          "walk_note": "숙소 체크인 후 저녁",
+          "verified": false,
+          "detail": {
+            "what": "오래된 건물들이 이어지는 거리에서 커피를 마셔요.",
+            "menu": [
+              "커피·차 · 매장 현장 선택"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "상호를 확정하지 않은 휴식 구간이에요. 좌석과 주차 여건을 보고 골라요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=eeedc96a-3e8b-419d-89eb-b8966e73fd41"
+          }
+        },
+        {
+          "time": "18:00",
+          "type": "저녁",
+          "name": "군산 구도심 저녁",
+          "one_liner": "숙소 가까운 곳에서 생선 요리나 백반을 골라요.",
+          "walk_note": "숙소 휴식",
+          "verified": false,
+          "detail": {
+            "what": "숙소 가까운 곳에서 생선 요리나 백반을 골라요.",
+            "menu": [
+              "백반·생선구이 · 점포 현장 선택"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "시장 안 점포는 현장 선택이에요. 저녁 영업 여부를 미리 확인하고, 문을 닫으면 숙소 인근 한식당으로 바꿔요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=eeedc96a-3e8b-419d-89eb-b8966e73fd41"
+          }
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "박물관부터 호수의 저녁까지",
+      "area": "장미동 · 은파호수",
+      "steps": [
+        {
+          "time": "08:30",
+          "type": "아침",
+          "name": "숙소에서 아침",
+          "one_liner": "서두르지 않고 아침을 먹은 뒤 출발해요.",
+          "walk_note": "도보 또는 차량 약 10분 → 근대역사박물관",
+          "verified": false,
+          "detail": {
+            "what": "서두르지 않고 아침을 먹은 뒤 출발해요.",
+            "menu": [
+              "조식 또는 전날 준비한 빵·과일"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "숙소 미선정: 조식 제공 여부·운영시간·별도 요금은 예약할 때 확인하세요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": ""
+          }
+        },
+        {
+          "time": "10:00",
+          "type": "관람",
+          "name": "군산근대역사박물관",
+          "one_liner": "항구 도시의 지난 시간을 전시로 살펴봐요.",
+          "walk_note": "차량 약 10분 → 점심",
+          "verified": false,
+          "detail": {
+            "what": "항구 도시의 지난 시간을 전시로 살펴봐요.",
+            "menu": [
+              "전시 관람 60–90분"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "개관일과 전시실 운영 범위를 확인하세요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=eeedc96a-3e8b-419d-89eb-b8966e73fd41"
+          }
+        },
+        {
+          "time": "12:00",
+          "type": "점심",
+          "name": "복성루",
+          "one_liner": "해산물과 고기가 어우러지는 짬뽕을 먹어요.",
+          "walk_note": "차량 약 15–25분 → 은파호수",
+          "verified": false,
+          "detail": {
+            "what": "해산물과 고기가 어우러지는 짬뽕을 먹어요.",
+            "menu": [
+              "짬뽕"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "점심 대기와 재료 소진을 고려해요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://event.tmap.co.kr/comm/tmapspider/gunsan.html"
+          }
+        },
+        {
+          "time": "14:30",
+          "type": "산책",
+          "name": "은파호수공원",
+          "one_liner": "호수 전체를 돌지 않고 물빛다리 주변에서 왕복해요.",
+          "walk_note": "호수 주변 카페로",
+          "verified": false,
+          "detail": {
+            "what": "호수 전체를 돌지 않고 물빛다리 주변에서 왕복해요.",
+            "menu": [
+              "호숫가 산책 45분"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "이동·대기 시간은 여유 있게 잡고, 당일 운영 여부와 주차 위치를 확인하세요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=eeedc96a-3e8b-419d-89eb-b8966e73fd41"
+          }
+        },
+        {
+          "time": "15:30",
+          "type": "카페",
+          "name": "은파호수 주변 카페",
+          "one_liner": "호수를 보며 앉아서 오후를 보내요.",
+          "walk_note": "근처에서 저녁 후 숙소",
+          "verified": false,
+          "detail": {
+            "what": "호수를 보며 앉아서 오후를 보내요.",
+            "menu": [
+              "커피·차 · 매장 현장 선택"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "상호를 확정하지 않은 휴식 구간이에요. 좌석과 주차 여건을 보고 골라요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=eeedc96a-3e8b-419d-89eb-b8966e73fd41"
+          }
+        },
+        {
+          "time": "18:00",
+          "type": "저녁",
+          "name": "은파호수 주변 저녁",
+          "one_liner": "오늘은 호수 근처에서 따뜻한 밥을 먹어요.",
+          "walk_note": "차량 약 20분 → 숙소",
+          "verified": false,
+          "detail": {
+            "what": "오늘은 호수 근처에서 따뜻한 밥을 먹어요.",
+            "menu": [
+              "한식 · 점포 현장 선택"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "시장 안 점포는 현장 선택이에요. 저녁 영업 여부를 미리 확인하고, 문을 닫으면 숙소 인근 한식당으로 바꿔요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=eeedc96a-3e8b-419d-89eb-b8966e73fd41"
+          }
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "매콤한 점심 뒤, 집으로",
+      "area": "이성당 · 미원동",
+      "steps": [
+        {
+          "time": "08:30",
+          "type": "아침",
+          "name": "숙소에서 아침",
+          "one_liner": "서두르지 않고 아침을 먹은 뒤 출발해요.",
+          "walk_note": "체크아웃 후 구도심 산책",
+          "verified": false,
+          "detail": {
+            "what": "서두르지 않고 아침을 먹은 뒤 출발해요.",
+            "menu": [
+              "조식 또는 전날 준비한 빵·과일"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "숙소 미선정: 조식 제공 여부·운영시간·별도 요금은 예약할 때 확인하세요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": ""
+          }
+        },
+        {
+          "time": "10:00",
+          "type": "간식",
+          "name": "이성당",
+          "one_liner": "돌아가는 길에 먹을 빵을 고르고 골목을 한 번 더 걸어요.",
+          "walk_note": "차량 약 5–10분 → 미원동",
+          "verified": false,
+          "detail": {
+            "what": "돌아가는 길에 먹을 빵을 고르고 골목을 한 번 더 걸어요.",
+            "menu": [
+              "단팥빵·야채빵"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "인기 빵 대기가 길면 다른 빵을 고르거나 포장을 생략해요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://www.korea.kr/news/reporterView.do?newsId=148970469"
+          }
+        },
+        {
+          "time": "11:30",
+          "type": "점심",
+          "name": "지린성",
+          "one_liner": "고추짜장으로 여행의 마지막 맛을 남겨요.",
+          "walk_note": "13:00 전후 수원 출발",
+          "verified": false,
+          "detail": {
+            "what": "고추짜장으로 여행의 마지막 맛을 남겨요.",
+            "menu": [
+              "고추짜장 · 매운맛 주의"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "매운 것을 잘 못 먹으면 일반 짜장 등 대체 메뉴를 확인하세요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://www.ktourmap.com/spotDetails.jsp?contentId=2778843"
+          }
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "수원 출발 편도 약 2.5–3.5시간 예상. 금요일 정체와 휴게소 휴식은 별도로 더하고, 마지막 날 점심 후 귀가해요.",
+    "선유도까지 이동을 늘리지 않고 구도심과 은파호수에 집중한 코스예요.",
+    "구도심 관람 시설의 휴관일을 확인하고 순서를 바꿔도 좋아요.",
+    "식당 대기가 40분을 넘으면 뒤의 카페·산책 시간을 줄여요. 숙소와 식당 예약은 진행하지 않았어요."
+  ]
+}

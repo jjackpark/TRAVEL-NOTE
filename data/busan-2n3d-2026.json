@@ -1,0 +1,313 @@
+{
+  "id": "busan-2n3d-2026",
+  "order": 10,
+  "city": "부산",
+  "region": "경상",
+  "title": "부산, 국밥과 항구 골목 사이",
+  "drive": "약 4.5–5.5시간",
+  "english": "BUSAN",
+  "kicker": "PORT CITY, LITTLE ALLEYS",
+  "themes": [
+    "바다",
+    "맛집",
+    "카페",
+    "산책"
+  ],
+  "season": [
+    "가을",
+    "사계절"
+  ],
+  "summary": "부산역에서 남포동, 영도로 이어지는 여행. 멀리 횡단하지 않고 항구 도시의 맛과 풍경에 머물러요.",
+  "distance_from_suwon": "차량 약 4.5–5.5시간 · 휴게·정체 시 추가",
+  "parking": "숙소 주차 + 관광지 공영주차장 중심 · 실제 이용 가능 여부 미확인",
+  "hero_photo": {
+    "url": "images/busan-hero.jpg",
+    "alt": "부산 흰여울문화마을",
+    "caption": "부산 흰여울문화마을",
+    "credit": "Agoda",
+    "source": "https://www.agoda.com/travel-guides/south-korea/busan/discover-the-charm-of-huinnyeoul-culture-village-a-hidden-gem-in-busan/",
+    "note": "자료 사진으로 방문 시 풍경·메뉴 구성과 다를 수 있어요. 사진 출처에서 촬영 맥락을 확인할 수 있어요."
+  },
+  "hotness": {
+    "score": null,
+    "sources_count": 6,
+    "last_verified": null,
+    "signals": []
+  },
+  "research_note": "2026.09.17 관광 자료·메뉴 안내 참고 · 실제 방문 및 실시간 영업 확인 전 · 시간과 동선은 편집한 여행 제안",
+  "sources": [
+    {
+      "label": "본전돼지국밥 · 참고 자료",
+      "url": "https://www.trip.com/moments/theme/poi-bonjeon-dwaeji-gukbap-17199251-restaurant-993134/"
+    },
+    {
+      "label": "부평깡통시장 주변 저녁 · 참고 자료",
+      "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=f5d50cc5-b18d-4e46-8b1e-4b0d437a33ad"
+    },
+    {
+      "label": "할매가야밀면 · 참고 자료",
+      "url": "https://www.busantaste.com/ko/r/grandma-s-gaya-milmyeon"
+    },
+    {
+      "label": "영도 바다 전망 카페 · 참고 자료",
+      "url": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000602002001000&uc_seq=488"
+    },
+    {
+      "label": "초량 차이나타운 · 참고 자료",
+      "url": "https://brunch.co.kr/%40dydy1408/156"
+    },
+    {
+      "label": "신발원 · 참고 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=vtpJ22RezEBl"
+    }
+  ],
+  "stay": {
+    "area": "부산역·남포동 주차 가능한 숙소",
+    "type": "2인 숙소 · 미선정",
+    "note": "부산역·남포동 주차 가능한 숙소에서 2박 연박을 권해요. 숙소는 아직 정하지 않았으며, 주차·조식·체크인 시간은 예약 전에 확인하세요."
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": "국밥 한 그릇과 남포동의 저녁",
+      "area": "부산역 · 남포동",
+      "steps": [
+        {
+          "time": "13:00",
+          "type": "점심",
+          "name": "본전돼지국밥",
+          "one_liner": "긴 운전 뒤 따뜻한 돼지국밥으로 배를 채워요.",
+          "walk_note": "차량 약 10–20분 → 숙소",
+          "verified": false,
+          "detail": {
+            "what": "긴 운전 뒤 따뜻한 돼지국밥으로 배를 채워요.",
+            "menu": [
+              "돼지국밥"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "수원에서 06:30 전후 출발을 권해요. 부산역 인근 주차장을 미리 확인해요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://www.trip.com/moments/theme/poi-bonjeon-dwaeji-gukbap-17199251-restaurant-993134/"
+          },
+          "photo": {
+            "url": "images/busan-food.jpg",
+            "alt": "본전돼지국밥 상차림",
+            "caption": "본전돼지국밥 상차림",
+            "credit": "Trip.com 여행자 사진",
+            "source": "https://www.trip.com/moments/theme/poi-bonjeon-dwaeji-gukbap-17199251-restaurant-993134/",
+            "note": "자료 사진으로 방문 시 풍경·메뉴 구성과 다를 수 있어요. 사진 출처에서 촬영 맥락을 확인할 수 있어요."
+          }
+        },
+        {
+          "time": "15:30",
+          "type": "산책",
+          "name": "용두산공원·남포동",
+          "one_liner": "숙소에 짐을 두고 공원과 구도심을 걸어요.",
+          "walk_note": "남포동 식당으로",
+          "verified": false,
+          "detail": {
+            "what": "숙소에 짐을 두고 공원과 구도심을 걸어요.",
+            "menu": [
+              "산책 60분"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "이동·대기 시간은 여유 있게 잡고, 당일 운영 여부와 주차 위치를 확인하세요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=f5d50cc5-b18d-4e46-8b1e-4b0d437a33ad"
+          }
+        },
+        {
+          "time": "18:00",
+          "type": "저녁",
+          "name": "할매가야밀면",
+          "one_liner": "차가운 밀면으로 남포동의 저녁을 시작해요.",
+          "walk_note": "남포동 골목 산책 후 숙소",
+          "verified": false,
+          "detail": {
+            "what": "차가운 밀면으로 남포동의 저녁을 시작해요.",
+            "menu": [
+              "밀면"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "당일 마감 전에 도착할 수 있는지 확인해요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://www.busantaste.com/ko/r/grandma-s-gaya-milmyeon"
+          }
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "영도의 바다에 오래 머물기",
+      "area": "흰여울 · 영도",
+      "steps": [
+        {
+          "time": "08:30",
+          "type": "아침",
+          "name": "숙소에서 아침",
+          "one_liner": "서두르지 않고 아침을 먹은 뒤 출발해요.",
+          "walk_note": "차량 약 20–35분 → 흰여울문화마을",
+          "verified": false,
+          "detail": {
+            "what": "서두르지 않고 아침을 먹은 뒤 출발해요.",
+            "menu": [
+              "조식 또는 전날 준비한 빵·과일"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "숙소 미선정: 조식 제공 여부·운영시간·별도 요금은 예약할 때 확인하세요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": ""
+          }
+        },
+        {
+          "time": "10:00",
+          "type": "산책",
+          "name": "흰여울문화마을",
+          "one_liner": "바다를 내려다보는 골목을 걸으며 사진을 남겨요.",
+          "walk_note": "영도 안에서 점심",
+          "verified": false,
+          "detail": {
+            "what": "바다를 내려다보는 골목을 걸으며 사진을 남겨요.",
+            "menu": [
+              "마을 산책 60분"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "절영해안산책로와 마을 사이에는 계단이 있어요. 통제 구간은 피하고 주민 집 앞에서는 조용히 걸어요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000602002001000&uc_seq=488"
+          },
+          "photo": {
+            "url": "images/busan-hero.jpg",
+            "alt": "부산 흰여울문화마을",
+            "caption": "부산 흰여울문화마을",
+            "credit": "Agoda",
+            "source": "https://www.agoda.com/travel-guides/south-korea/busan/discover-the-charm-of-huinnyeoul-culture-village-a-hidden-gem-in-busan/",
+            "note": "자료 사진으로 방문 시 풍경·메뉴 구성과 다를 수 있어요. 사진 출처에서 촬영 맥락을 확인할 수 있어요."
+          }
+        },
+        {
+          "time": "12:00",
+          "type": "점심",
+          "name": "영도 식당가 · 현장 선택",
+          "one_liner": "멀리 이동하지 않고 영도 안에서 점심을 먹어요.",
+          "walk_note": "흰여울 또는 영도 카페로",
+          "verified": false,
+          "detail": {
+            "what": "멀리 이동하지 않고 영도 안에서 점심을 먹어요.",
+            "menu": [
+              "생선구이 또는 국밥 · 당일 확인"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "이동·대기 시간은 여유 있게 잡고, 당일 운영 여부와 주차 위치를 확인하세요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000602002001000&uc_seq=488"
+          }
+        },
+        {
+          "time": "14:00",
+          "type": "카페",
+          "name": "영도 바다 전망 카페",
+          "one_liner": "앉아서 바다를 보는 시간을 한 시간 이상 남겨요.",
+          "walk_note": "차량 약 20–35분 → 숙소",
+          "verified": false,
+          "detail": {
+            "what": "앉아서 바다를 보는 시간을 한 시간 이상 남겨요.",
+            "menu": [
+              "커피·차 · 매장 현장 선택"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "상호를 확정하지 않은 휴식 구간이에요. 좌석과 주차 여건을 보고 골라요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000602002001000&uc_seq=488"
+          }
+        },
+        {
+          "time": "18:00",
+          "type": "저녁",
+          "name": "부평깡통시장 주변 저녁",
+          "one_liner": "시장 골목을 둘러보며 먹고 싶은 메뉴를 나눠 골라요.",
+          "walk_note": "숙소 복귀",
+          "verified": false,
+          "detail": {
+            "what": "시장 골목을 둘러보며 먹고 싶은 메뉴를 나눠 골라요.",
+            "menu": [
+              "한식·시장 먹거리 · 점포 현장 선택"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "시장 안 점포는 현장 선택이에요. 저녁 영업 여부를 미리 확인하고, 문을 닫으면 숙소 인근 한식당으로 바꿔요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=f5d50cc5-b18d-4e46-8b1e-4b0d437a33ad"
+          }
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "차이나타운 점심 뒤 이른 출발",
+      "area": "초량 · 부산역",
+      "steps": [
+        {
+          "time": "08:30",
+          "type": "아침",
+          "name": "숙소에서 아침",
+          "one_liner": "서두르지 않고 아침을 먹은 뒤 출발해요.",
+          "walk_note": "체크아웃 후 부산역 인근으로",
+          "verified": false,
+          "detail": {
+            "what": "서두르지 않고 아침을 먹은 뒤 출발해요.",
+            "menu": [
+              "조식 또는 전날 준비한 빵·과일"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "숙소 미선정: 조식 제공 여부·운영시간·별도 요금은 예약할 때 확인하세요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": ""
+          }
+        },
+        {
+          "time": "10:00",
+          "type": "산책",
+          "name": "초량 차이나타운",
+          "one_liner": "골목을 짧게 둘러보고 점심 영업을 기다려요.",
+          "walk_note": "도보 → 신발원",
+          "verified": false,
+          "detail": {
+            "what": "골목을 짧게 둘러보고 점심 영업을 기다려요.",
+            "menu": [
+              "골목 산책 30분"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "이동·대기 시간은 여유 있게 잡고, 당일 운영 여부와 주차 위치를 확인하세요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://brunch.co.kr/%40dydy1408/156"
+          }
+        },
+        {
+          "time": "11:00",
+          "type": "점심",
+          "name": "신발원",
+          "one_liner": "고기만두와 군만두를 나눠 먹고 돌아갈 준비를 해요.",
+          "walk_note": "12:30 전후 수원 출발",
+          "verified": false,
+          "detail": {
+            "what": "고기만두와 군만두를 나눠 먹고 돌아갈 준비를 해요.",
+            "menu": [
+              "고기만두",
+              "군만두"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "대기가 길면 다른 부산역 인근 식당으로 바꿔 귀가 시간을 지켜요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://www.diningcode.com/profile.php?rid=vtpJ22RezEBl"
+          }
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "수원 출발 편도 약 4.5–5.5시간 예상. 금요일 정체와 휴게소 휴식은 별도로 더하고, 마지막 날 점심 후 귀가해요.",
+    "해운대·기장은 다음 여행으로 남기고 부산역·남포·영도에 집중해요.",
+    "남포동은 숙소 주차 후 도보 이동을 권해요. 영도 이동 시 교량 정체를 고려하세요.",
+    "식당 대기가 40분을 넘으면 뒤의 카페·산책 시간을 줄여요. 숙소와 식당 예약은 진행하지 않았어요."
+  ]
+}

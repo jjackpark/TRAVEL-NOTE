@@ -1,0 +1,345 @@
+{
+  "id": "danyang-2n3d-2026",
+  "order": 3,
+  "city": "단양",
+  "region": "충청",
+  "title": "단양, 강을 따라 마늘 향을 따라",
+  "drive": "약 2–3시간",
+  "english": "DANYANG",
+  "kicker": "RIVERSIDE, SLOWLY",
+  "themes": [
+    "산",
+    "맛집",
+    "산책"
+  ],
+  "season": [
+    "가을",
+    "사계절"
+  ],
+  "summary": "도담삼봉부터 강변 잔도까지. 마늘정식과 시장 간식을 사이에 두고 쉬엄쉬엄 걷는 여행.",
+  "distance_from_suwon": "차량 약 2–3시간 · 휴게·정체 시 추가",
+  "parking": "숙소 주차 + 관광지 공영주차장 중심 · 실제 이용 가능 여부 미확인",
+  "hero_photo": {
+    "url": "images/danyang-hero.jpg",
+    "alt": "도담삼봉",
+    "caption": "도담삼봉",
+    "credit": "쿠니의 아웃도어 라이프 · 뷰스",
+    "source": "https://view.nate.com/travel/view/64296/",
+    "note": "자료 사진으로 방문 시 풍경·메뉴 구성과 다를 수 있어요. 사진 출처에서 촬영 맥락을 확인할 수 있어요."
+  },
+  "hotness": {
+    "score": null,
+    "sources_count": 5,
+    "last_verified": null,
+    "signals": []
+  },
+  "research_note": "2026.09.17 관광 자료·메뉴 안내 참고 · 실제 방문 및 실시간 영업 확인 전 · 시간과 동선은 편집한 여행 제안",
+  "sources": [
+    {
+      "label": "소금정공원 · 참고 자료",
+      "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=e131f523-e824-4e39-ab98-45c0ea7ef450"
+    },
+    {
+      "label": "장다리식당 · 참고 자료",
+      "url": "https://www.koreatriptips.com/dining/404262.html"
+    },
+    {
+      "label": "돌집식당 · 참고 자료",
+      "url": "https://m.menupan.com/restaurant/onepage.asp?acode=H302143"
+    },
+    {
+      "label": "다원 · 참고 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=697a9tVtpx5K"
+    },
+    {
+      "label": "단양마늘만두 · 참고 자료",
+      "url": "https://www.tabling.co.kr/place/677ccadf66de5f06987c2748"
+    }
+  ],
+  "stay": {
+    "area": "단양읍 강변",
+    "type": "2인 숙소 · 미선정",
+    "note": "단양읍 강변에서 2박 연박을 권해요. 숙소는 아직 정하지 않았으며, 주차·조식·체크인 시간은 예약 전에 확인하세요."
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": "세 봉우리를 보고, 마늘 밥상으로",
+      "area": "도담삼봉 · 단양읍",
+      "steps": [
+        {
+          "time": "11:00",
+          "type": "산책",
+          "name": "도담삼봉",
+          "one_liner": "강 위 세 봉우리를 바라보며 짧게 산책해요.",
+          "walk_note": "차량 약 10–15분 → 점심",
+          "verified": false,
+          "detail": {
+            "what": "강 위 세 봉우리를 바라보며 짧게 산책해요.",
+            "menu": [
+              "전망 감상 40분"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "석문까지 올라가는 계단 코스는 선택 사항이에요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=e131f523-e824-4e39-ab98-45c0ea7ef450"
+          },
+          "photo": {
+            "url": "images/danyang-hero.jpg",
+            "alt": "도담삼봉",
+            "caption": "도담삼봉",
+            "credit": "쿠니의 아웃도어 라이프 · 뷰스",
+            "source": "https://view.nate.com/travel/view/64296/",
+            "note": "자료 사진으로 방문 시 풍경·메뉴 구성과 다를 수 있어요. 사진 출처에서 촬영 맥락을 확인할 수 있어요."
+          }
+        },
+        {
+          "time": "12:00",
+          "type": "점심",
+          "name": "장다리식당",
+          "one_liner": "단양의 마늘을 여러 반찬과 함께 맛보는 한 상을 골라요.",
+          "walk_note": "차량 약 5–10분 → 시장",
+          "verified": false,
+          "detail": {
+            "what": "단양의 마늘을 여러 반찬과 함께 맛보는 한 상을 골라요.",
+            "menu": [
+              "마늘정식"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "정식 종류·최소 주문 인원과 현재 가격을 확인하세요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://www.koreatriptips.com/dining/404262.html"
+          },
+          "photo": {
+            "url": "images/danyang-food.jpg",
+            "alt": "장다리식당 마늘정식",
+            "caption": "장다리식당 마늘정식",
+            "credit": "오마이뉴스",
+            "source": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002696107",
+            "note": "자료 사진으로 방문 시 풍경·메뉴 구성과 다를 수 있어요. 사진 출처에서 촬영 맥락을 확인할 수 있어요."
+          }
+        },
+        {
+          "time": "14:00",
+          "type": "카페",
+          "name": "단양강변 카페",
+          "one_liner": "강을 바라보며 쉬고 숙소에 짐을 풀어요.",
+          "walk_note": "숙소 체크인 후 시장으로",
+          "verified": false,
+          "detail": {
+            "what": "강을 바라보며 쉬고 숙소에 짐을 풀어요.",
+            "menu": [
+              "커피·차 · 매장 현장 선택"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "상호를 확정하지 않은 휴식 구간이에요. 좌석과 주차 여건을 보고 골라요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=e131f523-e824-4e39-ab98-45c0ea7ef450"
+          }
+        },
+        {
+          "time": "18:00",
+          "type": "저녁",
+          "name": "단양구경시장",
+          "one_liner": "먹고 싶은 시장 메뉴를 둘이 나누는 저녁이에요.",
+          "walk_note": "강변 산책 후 숙소",
+          "verified": false,
+          "detail": {
+            "what": "먹고 싶은 시장 메뉴를 둘이 나누는 저녁이에요.",
+            "menu": [
+              "마늘만두",
+              "시장 한식 · 현장 선택"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "시장 안 점포는 현장 선택이에요. 저녁 영업 여부를 미리 확인하고, 문을 닫으면 숙소 인근 한식당으로 바꿔요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=e131f523-e824-4e39-ab98-45c0ea7ef450"
+          }
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "강 위 길을 천천히 걷기",
+      "area": "만천하 · 단양강 잔도",
+      "steps": [
+        {
+          "time": "08:30",
+          "type": "아침",
+          "name": "숙소에서 아침",
+          "one_liner": "서두르지 않고 아침을 먹은 뒤 출발해요.",
+          "walk_note": "차량 약 15–25분 → 만천하스카이워크",
+          "verified": false,
+          "detail": {
+            "what": "서두르지 않고 아침을 먹은 뒤 출발해요.",
+            "menu": [
+              "조식 또는 전날 준비한 빵·과일"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "숙소 미선정: 조식 제공 여부·운영시간·별도 요금은 예약할 때 확인하세요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": ""
+          }
+        },
+        {
+          "time": "10:00",
+          "type": "전망",
+          "name": "만천하스카이워크",
+          "one_liner": "전망대에서 굽이치는 강과 단양읍을 내려다봐요.",
+          "walk_note": "차량 약 15–25분 → 점심",
+          "verified": false,
+          "detail": {
+            "what": "전망대에서 굽이치는 강과 단양읍을 내려다봐요.",
+            "menu": [
+              "전망대 방문 · 체류 60–90분"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "셔틀·매표 대기와 오르막이 있어요. 고소공포가 있으면 전망대 대신 강변 공원으로 바꿔요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=e131f523-e824-4e39-ab98-45c0ea7ef450"
+          }
+        },
+        {
+          "time": "12:30",
+          "type": "점심",
+          "name": "돌집식당",
+          "one_liner": "곤드레와 마늘을 곁들인 식사로 오후를 준비해요.",
+          "walk_note": "차량 약 10–20분 → 잔도",
+          "verified": false,
+          "detail": {
+            "what": "곤드레와 마늘을 곁들인 식사로 오후를 준비해요.",
+            "menu": [
+              "곤드레마늘정식"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "현재 메뉴와 정식 주문 조건을 미리 확인해요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://m.menupan.com/restaurant/onepage.asp?acode=H302143"
+          }
+        },
+        {
+          "time": "14:30",
+          "type": "산책",
+          "name": "단양강 잔도",
+          "one_liner": "강 위 데크를 따라 걷다가 같은 길로 돌아와요.",
+          "walk_note": "차량 약 10–15분 → 카페",
+          "verified": false,
+          "detail": {
+            "what": "강 위 데크를 따라 걷다가 같은 길로 돌아와요.",
+            "menu": [
+              "왕복 50–60분 · 체력에 맞게 단축"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "우천·결빙·통제 여부를 확인하고 편한 신발을 신어요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=e131f523-e824-4e39-ab98-45c0ea7ef450"
+          }
+        },
+        {
+          "time": "16:00",
+          "type": "카페",
+          "name": "단양읍 강변 카페",
+          "one_liner": "많이 걸은 날에는 앉아서 쉬는 시간을 길게 잡아요.",
+          "walk_note": "도보 또는 차량 약 10분 → 저녁",
+          "verified": false,
+          "detail": {
+            "what": "많이 걸은 날에는 앉아서 쉬는 시간을 길게 잡아요.",
+            "menu": [
+              "커피·차 · 매장 현장 선택"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "상호를 확정하지 않은 휴식 구간이에요. 좌석과 주차 여건을 보고 골라요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=e131f523-e824-4e39-ab98-45c0ea7ef450"
+          }
+        },
+        {
+          "time": "18:00",
+          "type": "저녁",
+          "name": "다원",
+          "one_liner": "마늘떡갈비를 먹으며 둘째 날을 마무리해요.",
+          "walk_note": "숙소 복귀",
+          "verified": false,
+          "detail": {
+            "what": "마늘떡갈비를 먹으며 둘째 날을 마무리해요.",
+            "menu": [
+              "마늘떡갈비"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "이동·대기 시간은 여유 있게 잡고, 당일 운영 여부와 주차 위치를 확인하세요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://www.diningcode.com/profile.php?rid=697a9tVtpx5K"
+          }
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "만두와 빵을 챙기는 마지막 오전",
+      "area": "소금정공원 · 구경시장",
+      "steps": [
+        {
+          "time": "08:30",
+          "type": "아침",
+          "name": "숙소에서 아침",
+          "one_liner": "서두르지 않고 아침을 먹은 뒤 출발해요.",
+          "walk_note": "체크아웃 후 소금정공원으로",
+          "verified": false,
+          "detail": {
+            "what": "서두르지 않고 아침을 먹은 뒤 출발해요.",
+            "menu": [
+              "조식 또는 전날 준비한 빵·과일"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "숙소 미선정: 조식 제공 여부·운영시간·별도 요금은 예약할 때 확인하세요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": ""
+          }
+        },
+        {
+          "time": "10:00",
+          "type": "산책",
+          "name": "소금정공원",
+          "one_liner": "짧게 공원을 걷고 여행의 마지막 풍경을 담아요.",
+          "walk_note": "차량 약 5–10분 → 구경시장",
+          "verified": false,
+          "detail": {
+            "what": "짧게 공원을 걷고 여행의 마지막 풍경을 담아요.",
+            "menu": [
+              "산책 30분"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "이동·대기 시간은 여유 있게 잡고, 당일 운영 여부와 주차 위치를 확인하세요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=e131f523-e824-4e39-ab98-45c0ea7ef450"
+          }
+        },
+        {
+          "time": "11:30",
+          "type": "점심",
+          "name": "단양마늘만두",
+          "one_liner": "마늘만두를 나누고 부족하면 시장 안에서 식사를 보태요.",
+          "walk_note": "13:00 전후 수원 출발",
+          "verified": false,
+          "detail": {
+            "what": "마늘만두를 나누고 부족하면 시장 안에서 식사를 보태요.",
+            "menu": [
+              "떡갈비마늘만두",
+              "만두만으로 부족하면 한식 추가"
+            ],
+            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
+            "tips": "포장 후 오래 보관하지 말고 바로 먹어요.",
+            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "source": "https://www.tabling.co.kr/place/677ccadf66de5f06987c2748"
+          }
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "수원 출발 편도 약 2–3시간 예상. 금요일 정체와 휴게소 휴식은 별도로 더하고, 마지막 날 점심 후 귀가해요.",
+    "스카이워크와 잔도는 기상에 따라 운영이 달라져요.",
+    "패러글라이딩·집와이어는 포함하지 않아 걷기와 식사에 집중해요.",
+    "식당 대기가 40분을 넘으면 뒤의 카페·산책 시간을 줄여요. 숙소와 식당 예약은 진행하지 않았어요."
+  ]
+}
