@@ -1,0 +1,849 @@
+{
+  "id": "hwaseong-2n3d-2026",
+  "order": 21,
+  "city": "화성 서해안",
+  "region": "수도권",
+  "title": "화성 서해안, 가까운 바다에서 보내는 사흘",
+  "drive": "약 1–1.5시간",
+  "english": "HWASEONG",
+  "kicker": "NEARBY, SLOW & TOGETHER",
+  "themes": [
+    "바다",
+    "산책",
+    "맛집"
+  ],
+  "season": [
+    "가을",
+    "봄"
+  ],
+  "summary": "궁평항과 전곡항에서 쉬고, 물때에 맞춰 제부도를 만나는 가까운 바다 여행.",
+  "distance_from_suwon": "수원 → 첫 방문 권역 자차 약 1–1.5시간 · 비혼잡 시간대 계획용 추정치",
+  "parking": "숙소 및 방문지 주차장 이용 · 가능 여부와 요금 미확인",
+  "hero_photo": {
+    "url": "images/scenic/tour-c09e8f77a1f4.jpg",
+    "alt": "전곡항 관광정보 사진",
+    "caption": "전곡항",
+    "source": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=d15fd353-7679-4ba7-9bdf-954170d4b0f4",
+    "credit": "한국관광공사 관광정보",
+    "note": "관광정보에 공개된 장소 사진이에요. 촬영 시점에 따라 현재 풍경과 다를 수 있어요."
+  },
+  "hotness": {
+    "score": null,
+    "sources_count": 11,
+    "last_verified": null,
+    "signals": []
+  },
+  "research_note": "2026.09.17 실제 매장명·주소·메뉴와 공개 주간 영업표 확인. 금–일 일정 기준으로 영업시간을 대조했으며, 전화 확인이나 실시간 영업 보장은 아니에요. 브레이크타임·주문 마감 미기재는 별도로 표시했어요.",
+  "sources": [
+    {
+      "label": "화성 서해안 관광 참고 자료",
+      "url": "https://tour.hscity.go.kr/NEW/1tour/totalList1.jsp"
+    },
+    {
+      "label": "제부도 차량 통행시간 안내",
+      "url": "https://tour.hscity.go.kr/NEW/7jebu/jebudo_time.jsp"
+    },
+    {
+      "label": "화성 해안시설 임시폐쇄 공지",
+      "url": "https://www.hscity.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1019&q_bbscttSn=20250912110920366"
+    },
+    {
+      "label": "피쉬스토리 · 영업시간·휴무 확인 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=3uJQ6FXAF0Wz"
+    },
+    {
+      "label": "한옥 카페 감뜰 · 영업시간·휴무 확인 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=8xkyxfDpa8RJ"
+    },
+    {
+      "label": "해성 · 영업시간·휴무 확인 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=akjipRLlSUIg"
+    },
+    {
+      "label": "진한우국밥 · 영업시간·휴무 확인 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=RCINidzHFMzM"
+    },
+    {
+      "label": "선희네손칼국수 · 영업시간·휴무 확인 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=a4eskhiYrmyV"
+    },
+    {
+      "label": "오솔길 · 영업시간·휴무 확인 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=86ugGtFWjMST"
+    },
+    {
+      "label": "궁평항횟집 · 영업시간·휴무 확인 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=ku92rSUfZV13"
+    },
+    {
+      "label": "서해바다 · 영업시간·휴무 확인 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=tdW6gjoYRQfU"
+    }
+  ],
+  "stay": {
+    "area": "서신면에서 2박",
+    "type": "주차 가능한 2인 숙소 · 미선정",
+    "note": "숙소는 미선정이에요. 주차와 체크인 시간을 확인하고 예약하세요. 아침 식사는 일정에 적힌 실제 매장을 이용하는 구성입니다. 같은 숙소에서 두 밤을 보내요."
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": "항구에서 시작하는 작은 휴가",
+      "area": "궁평항 · 서신면",
+      "steps": [
+        {
+          "time": "12:00",
+          "type": "점심",
+          "name": "피쉬스토리",
+          "one_liner": "생선구이 · 산책 사이에 쉬어가는 점심",
+          "verified": false,
+          "detail": {
+            "what": "피쉬스토리에서 산책 사이에 쉬어가는 점심 시간을 가져요. 고등어구이, 삼치구이 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
+            "menu": [
+              "고등어구이",
+              "삼치구이",
+              "조기조림(2인이상)"
+            ],
+            "why": "경기도 화성시 만세구 서신면 궁평항로 1075 2층에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "매일 10:00–21:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=3uJQ6FXAF0Wz"
+          },
+          "walk_note": "다음: 궁평항 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
+          "business": {
+            "hours": "매일 10:00–21:00",
+            "closed_days": "휴무 없음 (공개 주간표 기준)",
+            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
+            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
+            "address": "경기도 화성시 만세구 서신면 궁평항로 1075 2층",
+            "phone": "0507-1409-1074",
+            "source": "https://www.diningcode.com/profile.php?rid=3uJQ6FXAF0Wz",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 10:00 - 21:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 10:00 - 21:00"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 10:00 - 21:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 10:00 - 21:00"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 10:00 - 21:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 10:00 - 21:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 10:00 - 21:00"
+              }
+            ],
+            "closed_weekdays": []
+          },
+          "photo": {
+            "url": "images/commons-897b7d127e.jpg",
+            "alt": "생선구이 · 메뉴 참고 사진",
+            "caption": "생선구이 · 메뉴 참고 사진",
+            "credit": "SEEMS to be at Flickr",
+            "source": "https://commons.wikimedia.org/wiki/File:Korean_grilled_cutlass_fish-Galchi_gui-01.jpg",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "kind": "menu",
+            "note": "해당 매장의 사진을 확보하지 못해 넣은 음식 종류 참고 사진입니다. 이 매장에서 촬영한 사진이 아니며 실제 메뉴와 다를 수 있어요.",
+            "original_title": "File:Korean grilled cutlass fish-Galchi gui-01.jpg"
+          }
+        },
+        {
+          "time": "13:30",
+          "type": "산책",
+          "name": "궁평항",
+          "one_liner": "항구 육상 구간에서 바다를 보고 수산물직판장을 구경해요. 바다낚시터는 일정에서 제외했어요.",
+          "verified": false,
+          "detail": {
+            "what": "항구 육상 구간에서 바다를 보고 수산물직판장을 구경해요. 바다낚시터는 일정에서 제외했어요.",
+            "menu": [
+              "관람·산책·휴식 일정 제안"
+            ],
+            "why": "같은 권역에서 걷기와 식사를 이어가고 오후에는 쉬는 시간을 남겼어요.",
+            "hours": "방문 계획 시각 · 운영시간·휴무·입장료 확인 필요",
+            "tips": "제부도는 입도·출도 가능 시간을 함께 확인해요. 궁평항 바다낚시터와 제부도 제비꼬리길은 폐쇄 공지가 있어 포함하지 않았어요.",
+            "source": "https://tour.hscity.go.kr/NEW/1tour/totalList1.jsp"
+          },
+          "walk_note": "다음: 한옥 카페 감뜰 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
+          "photo": {
+            "url": "images/scenic/a8897ff2d428.jpg",
+            "alt": "궁평항 풍경",
+            "caption": "궁평항",
+            "source": "https://commons.wikimedia.org/wiki/File:Gungpyeong_Port.jpg",
+            "credit": "Trainholic",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "note": "출처 사진의 촬영 시점과 방문 시기의 풍경은 다를 수 있어요."
+          }
+        },
+        {
+          "time": "15:30",
+          "type": "카페",
+          "name": "한옥 카페 감뜰",
+          "one_liner": "카페 · 차와 디저트를 즐기는 휴식",
+          "verified": false,
+          "detail": {
+            "what": "한옥 카페 감뜰에서 차와 디저트를 즐기는 휴식 시간을 가져요. VANILLA LATTE, CAFFE LATTE 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
+            "menu": [
+              "VANILLA LATTE",
+              "CAFFE LATTE",
+              "AMERICANO"
+            ],
+            "why": "경기도 화성시 만세구 서신면 담밭성지길 8 1층에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "매일 10:00–20:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=8xkyxfDpa8RJ"
+          },
+          "walk_note": "다음: 해성 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
+          "business": {
+            "hours": "매일 10:00–20:00",
+            "closed_days": "휴무 없음 (공개 주간표 기준)",
+            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
+            "last_order": "월·화·수·금·토·일 19:30",
+            "address": "경기도 화성시 만세구 서신면 담밭성지길 8 1층",
+            "phone": "0507-1487-8666",
+            "source": "https://www.diningcode.com/profile.php?rid=8xkyxfDpa8RJ",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 10:00 - 20:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 10:00 - 20:00 라스트오더: 19:30"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 10:00 - 20:00 라스트오더: 19:30"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 10:00 - 20:00 라스트오더: 19:30"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 10:00 - 20:00 라스트오더: 19:30"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 10:00 - 20:00 라스트오더: 19:30"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 10:00 - 20:00 라스트오더: 19:30"
+              }
+            ],
+            "closed_weekdays": []
+          },
+          "photo": {
+            "url": "images/venues/8xkyxfDpa8RJ.webp",
+            "alt": "한옥 카페 감뜰 매장 페이지에 게시된 사진",
+            "caption": "한옥 카페 감뜰 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=8xkyxfDpa8RJ",
+            "credit": "다이닝코드 · daydaylala",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
+          }
+        },
+        {
+          "time": "18:00",
+          "type": "저녁",
+          "name": "해성",
+          "one_liner": "해신탕, 제육볶음 · 하루를 마무리하는 저녁",
+          "verified": false,
+          "detail": {
+            "what": "해성에서 하루를 마무리하는 저녁 시간을 가져요. 해성정식, 염소탕 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
+            "menu": [
+              "해성정식",
+              "염소탕",
+              "간장게장"
+            ],
+            "why": "경기도 화성시 만세구 서신면 해양공단로 9-2 1층(송교리380-14)에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "매일 10:00–22:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=akjipRLlSUIg"
+          },
+          "walk_note": "숙소로 이동해 휴식 · 주차·체크인 시간 확인",
+          "business": {
+            "hours": "매일 10:00–22:00",
+            "closed_days": "휴무 없음 (공개 주간표 기준)",
+            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
+            "last_order": "월·화·수·금·토·일 20:30",
+            "address": "경기도 화성시 만세구 서신면 해양공단로 9-2 1층(송교리380-14)",
+            "phone": "0507-1363-5065",
+            "source": "https://www.diningcode.com/profile.php?rid=akjipRLlSUIg",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 10:00 - 22:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 10:00 - 22:00 라스트오더: 20:30"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 10:00 - 22:00 라스트오더: 20:30"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 10:00 - 22:00 라스트오더: 20:30"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 10:00 - 22:00 라스트오더: 20:30"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 10:00 - 22:00 라스트오더: 20:30"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 10:00 - 22:00 라스트오더: 20:30"
+              }
+            ],
+            "closed_weekdays": []
+          },
+          "photo": {
+            "url": "images/venues/akjipRLlSUIg.webp",
+            "alt": "해성 매장 페이지에 게시된 사진",
+            "caption": "해성 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=akjipRLlSUIg",
+            "credit": "다이닝코드 · 우리가",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
+          }
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "물때에 맞춰 섬에서 쉬기",
+      "area": "제부도 · 서신면",
+      "steps": [
+        {
+          "time": "09:00",
+          "type": "아침",
+          "name": "진한우국밥",
+          "one_liner": "국밥, 한우해장국 · 하루를 시작하는 아침 식사",
+          "verified": false,
+          "detail": {
+            "what": "진한우국밥에서 하루를 시작하는 아침 식사 시간을 가져요. 한우국밥, 사골순대국 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
+            "menu": [
+              "한우국밥",
+              "사골순대국",
+              "한우해장국"
+            ],
+            "why": "경기도 화성시 만세구 서신면 전곡항로 167 1층에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "월·수·목·금·토·일 03:00–19:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=RCINidzHFMzM"
+          },
+          "walk_note": "다음: 제부도 해변 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
+          "business": {
+            "hours": "월·수·목·금·토·일 03:00–19:00",
+            "closed_days": "화요일 (공개 주간표 기준)",
+            "break_time": "월·수·금·토·일 07:00–07:10",
+            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
+            "address": "경기도 화성시 만세구 서신면 전곡항로 167 1층",
+            "phone": "0507-1346-8859",
+            "source": "https://www.diningcode.com/profile.php?rid=RCINidzHFMzM",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 03:00 - 19:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 03:00 - 19:00 브레이크타임: 07:00 - 07:10"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 03:00 - 19:00 브레이크타임: 07:00 - 07:10"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 03:00 - 19:00 브레이크타임: 07:00 - 07:10"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 03:00 - 19:00 브레이크타임: 07:00 - 07:10"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "휴무일"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 03:00 - 19:00 브레이크타임: 07:00 - 07:10"
+              }
+            ],
+            "closed_weekdays": [
+              "화"
+            ]
+          },
+          "photo": {
+            "url": "images/venues/RCINidzHFMzM.webp",
+            "alt": "진한우국밥 매장 페이지에 게시된 사진",
+            "caption": "진한우국밥 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=RCINidzHFMzM",
+            "credit": "다이닝코드 · 이즈리얼",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
+          }
+        },
+        {
+          "time": "10:30",
+          "type": "산책",
+          "name": "제부도 해변",
+          "one_liner": "차량 통행 가능한 물때에 맞춰 출발해 모래사장을 걸어요. 제비꼬리길은 제외하고, 통행이 맞지 않으면 전곡항 일정과 바꿔요.",
+          "verified": false,
+          "detail": {
+            "what": "차량 통행 가능한 물때에 맞춰 출발해 모래사장을 걸어요. 제비꼬리길은 제외하고, 통행이 맞지 않으면 전곡항 일정과 바꿔요.",
+            "menu": [
+              "관람·산책·휴식 일정 제안"
+            ],
+            "why": "같은 권역에서 걷기와 식사를 이어가고 오후에는 쉬는 시간을 남겼어요.",
+            "hours": "방문 계획 시각 · 운영시간·휴무·입장료 확인 필요",
+            "tips": "제부도는 입도·출도 가능 시간을 함께 확인해요. 궁평항 바다낚시터와 제부도 제비꼬리길은 폐쇄 공지가 있어 포함하지 않았어요.",
+            "source": "https://tour.hscity.go.kr/NEW/1tour/totalList1.jsp"
+          },
+          "walk_note": "다음: 선희네손칼국수 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
+          "photo": {
+            "url": "images/scenic/68f9c8e0e6d2.jpg",
+            "alt": "제부도 해변 풍경",
+            "caption": "제부도 해변",
+            "source": "https://commons.wikimedia.org/wiki/File:The_Jebu_Beach.jpg",
+            "credit": "Moonhayun",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "note": "출처 사진의 촬영 시점과 방문 시기의 풍경은 다를 수 있어요."
+          }
+        },
+        {
+          "time": "13:00",
+          "type": "점심",
+          "name": "선희네손칼국수",
+          "one_liner": "칼국수 · 산책 사이에 쉬어가는 점심",
+          "verified": false,
+          "detail": {
+            "what": "선희네손칼국수에서 산책 사이에 쉬어가는 점심 시간을 가져요. 해물손칼국수, 백합손칼국수 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
+            "menu": [
+              "해물손칼국수",
+              "백합손칼국수",
+              "바지락손칼국수"
+            ],
+            "why": "경기도 화성시 만세구 서신면 해안길 334에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "매일 10:00–18:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=a4eskhiYrmyV"
+          },
+          "walk_note": "다음: 오솔길 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
+          "business": {
+            "hours": "매일 10:00–18:00",
+            "closed_days": "휴무 없음 (공개 주간표 기준)",
+            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
+            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
+            "address": "경기도 화성시 만세구 서신면 해안길 334",
+            "phone": "031-357-8211",
+            "source": "https://www.diningcode.com/profile.php?rid=a4eskhiYrmyV",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 10:00 - 18:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 10:00 - 18:00"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 10:00 - 18:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 10:00 - 18:00"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 10:00 - 18:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 10:00 - 18:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 10:00 - 18:00"
+              }
+            ],
+            "closed_weekdays": []
+          },
+          "photo": {
+            "url": "images/venues/a4eskhiYrmyV.webp",
+            "alt": "선희네손칼국수 매장 페이지에 게시된 사진",
+            "caption": "선희네손칼국수 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=a4eskhiYrmyV",
+            "credit": "다이닝코드 · sunin",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
+          }
+        },
+        {
+          "time": "15:00",
+          "type": "카페",
+          "name": "오솔길",
+          "one_liner": "카페 · 차와 디저트를 즐기는 휴식",
+          "verified": false,
+          "detail": {
+            "what": "오솔길에서 차와 디저트를 즐기는 휴식 시간을 가져요. 아메리카노, 소금크림카라멜 라떼 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
+            "menu": [
+              "아메리카노",
+              "소금크림카라멜 라떼",
+              "카페라떼"
+            ],
+            "why": "경기도 화성시 만세구 서신면 제부말길 82 1층에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "월·화·목·금 10:30–19:00 / 토·일 10:00–20:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=86ugGtFWjMST"
+          },
+          "walk_note": "다음: 궁평항횟집 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
+          "business": {
+            "hours": "월·화·목·금 10:30–19:00 / 토·일 10:00–20:00",
+            "closed_days": "수요일 (공개 주간표 기준)",
+            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
+            "last_order": "월·화·금 18:30 / 토·일 19:30",
+            "address": "경기도 화성시 만세구 서신면 제부말길 82 1층",
+            "phone": "0507-1368-3766",
+            "source": "https://www.diningcode.com/profile.php?rid=86ugGtFWjMST",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 10:30 - 19:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 10:30 - 19:00 라스트오더: 18:30"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 10:00 - 20:00 라스트오더: 19:30"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 10:00 - 20:00 라스트오더: 19:30"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 10:30 - 19:00 라스트오더: 18:30"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 10:30 - 19:00 라스트오더: 18:30"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "휴무일"
+              }
+            ],
+            "closed_weekdays": [
+              "수"
+            ]
+          },
+          "photo": {
+            "url": "images/venues/86ugGtFWjMST.webp",
+            "alt": "오솔길 매장 페이지에 게시된 사진",
+            "caption": "오솔길 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=86ugGtFWjMST",
+            "credit": "다이닝코드 · 하늘호수속으로",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
+          }
+        },
+        {
+          "time": "18:00",
+          "type": "저녁",
+          "name": "궁평항횟집",
+          "one_liner": "횟집, 해물탕 · 하루를 마무리하는 저녁",
+          "verified": false,
+          "detail": {
+            "what": "궁평항횟집에서 하루를 마무리하는 저녁 시간을 가져요. 바지락칼국수, 해물칼국수 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
+            "menu": [
+              "바지락칼국수",
+              "해물칼국수",
+              "쭈꾸미,꽃게"
+            ],
+            "why": "경기도 화성시 만세구 서신면 궁평항로 1069-8 1층101호에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "매일 09:00–21:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=ku92rSUfZV13"
+          },
+          "walk_note": "숙소로 이동해 휴식 · 주차·체크인 시간 확인",
+          "business": {
+            "hours": "매일 09:00–21:00",
+            "closed_days": "휴무 없음 (공개 주간표 기준)",
+            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
+            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
+            "address": "경기도 화성시 만세구 서신면 궁평항로 1069-8 1층101호",
+            "phone": "031-356-6627",
+            "source": "https://www.diningcode.com/profile.php?rid=ku92rSUfZV13",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 09:00 - 21:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 09:00 - 21:00"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 09:00 - 21:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 09:00 - 21:00"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 09:00 - 21:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 09:00 - 21:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 09:00 - 21:00"
+              }
+            ],
+            "closed_weekdays": []
+          },
+          "photo": {
+            "url": "images/venues/ku92rSUfZV13.webp",
+            "alt": "궁평항횟집 매장 페이지에 게시된 사진",
+            "caption": "궁평항횟집 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=ku92rSUfZV13",
+            "credit": "다이닝코드 · 입맛쏘쏘",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
+          }
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "육지의 항구를 한 번 더",
+      "area": "전곡항 → 수원",
+      "steps": [
+        {
+          "time": "09:00",
+          "type": "아침",
+          "name": "진한우국밥",
+          "one_liner": "국밥, 한우해장국 · 하루를 시작하는 아침 식사",
+          "verified": false,
+          "detail": {
+            "what": "진한우국밥에서 하루를 시작하는 아침 식사 시간을 가져요. 한우국밥, 사골순대국 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
+            "menu": [
+              "한우국밥",
+              "사골순대국",
+              "한우해장국"
+            ],
+            "why": "경기도 화성시 만세구 서신면 전곡항로 167 1층에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "월·수·목·금·토·일 03:00–19:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=RCINidzHFMzM"
+          },
+          "walk_note": "다음: 전곡항 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
+          "business": {
+            "hours": "월·수·목·금·토·일 03:00–19:00",
+            "closed_days": "화요일 (공개 주간표 기준)",
+            "break_time": "월·수·금·토·일 07:00–07:10",
+            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
+            "address": "경기도 화성시 만세구 서신면 전곡항로 167 1층",
+            "phone": "0507-1346-8859",
+            "source": "https://www.diningcode.com/profile.php?rid=RCINidzHFMzM",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 03:00 - 19:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 03:00 - 19:00 브레이크타임: 07:00 - 07:10"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 03:00 - 19:00 브레이크타임: 07:00 - 07:10"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 03:00 - 19:00 브레이크타임: 07:00 - 07:10"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 03:00 - 19:00 브레이크타임: 07:00 - 07:10"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "휴무일"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 03:00 - 19:00 브레이크타임: 07:00 - 07:10"
+              }
+            ],
+            "closed_weekdays": [
+              "화"
+            ]
+          },
+          "photo": {
+            "url": "images/venues/RCINidzHFMzM.webp",
+            "alt": "진한우국밥 매장 페이지에 게시된 사진",
+            "caption": "진한우국밥 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=RCINidzHFMzM",
+            "credit": "다이닝코드 · 이즈리얼",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
+          }
+        },
+        {
+          "time": "10:30",
+          "type": "산책",
+          "name": "전곡항",
+          "one_liner": "마지막 날은 육지의 항구 주변을 가볍게 걷고 돌아가요.",
+          "verified": false,
+          "detail": {
+            "what": "마지막 날은 육지의 항구 주변을 가볍게 걷고 돌아가요.",
+            "menu": [
+              "관람·산책·휴식 일정 제안"
+            ],
+            "why": "같은 권역에서 걷기와 식사를 이어가고 오후에는 쉬는 시간을 남겼어요.",
+            "hours": "방문 계획 시각 · 운영시간·휴무·입장료 확인 필요",
+            "tips": "제부도는 입도·출도 가능 시간을 함께 확인해요. 궁평항 바다낚시터와 제부도 제비꼬리길은 폐쇄 공지가 있어 포함하지 않았어요.",
+            "source": "https://tour.hscity.go.kr/NEW/1tour/totalList1.jsp"
+          },
+          "walk_note": "다음: 서해바다 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
+          "photo": {
+            "url": "images/scenic/tour-c09e8f77a1f4.jpg",
+            "alt": "전곡항 관광정보 사진",
+            "caption": "전곡항",
+            "source": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=d15fd353-7679-4ba7-9bdf-954170d4b0f4",
+            "credit": "한국관광공사 관광정보",
+            "note": "관광정보에 공개된 장소 사진이에요. 촬영 시점에 따라 현재 풍경과 다를 수 있어요."
+          }
+        },
+        {
+          "time": "12:00",
+          "type": "점심",
+          "name": "서해바다",
+          "one_liner": "바지락칼국수, 칼국수 · 산책 사이에 쉬어가는 점심",
+          "verified": false,
+          "detail": {
+            "what": "서해바다에서 산책 사이에 쉬어가는 점심 시간을 가져요. 해물부추전, 바지락칼국수 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
+            "menu": [
+              "해물부추전",
+              "바지락칼국수",
+              "회덮밥"
+            ],
+            "why": "경기도 화성시 만세구 서신면 전곡항로14번길 5-16에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "매일 09:00–20:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=tdW6gjoYRQfU"
+          },
+          "walk_note": "식사 후 수원으로 출발 · 실시간 귀가 소요시간 확인",
+          "business": {
+            "hours": "매일 09:00–20:00",
+            "closed_days": "휴무 없음 (공개 주간표 기준)",
+            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
+            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
+            "address": "경기도 화성시 만세구 서신면 전곡항로14번길 5-16",
+            "phone": "031-356-9711",
+            "source": "https://www.diningcode.com/profile.php?rid=tdW6gjoYRQfU",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 09:00 - 20:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 09:00 - 20:00"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 09:00 - 20:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 09:00 - 20:00"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 09:00 - 20:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 09:00 - 20:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 09:00 - 20:00"
+              }
+            ],
+            "closed_weekdays": []
+          },
+          "photo": {
+            "url": "images/venues/tdW6gjoYRQfU.webp",
+            "alt": "서해바다 매장 페이지에 게시된 사진",
+            "caption": "서해바다 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=tdW6gjoYRQfU",
+            "credit": "다이닝코드 · 서아띠",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
+          }
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "제부도는 입도·출도 가능 시간을 함께 확인해요. 궁평항 바다낚시터와 제부도 제비꼬리길은 폐쇄 공지가 있어 포함하지 않았어요.",
+    "수원 내 출발 위치와 교통에 따라 도착 시간이 달라져요. 약 1~2시간은 비혼잡 시간대의 계획용 추정치이며, 주말·연휴에는 2시간을 넘길 수 있어요.",
+    "사진은 추후 추가 예정이에요.",
+    "금요일 출발·일요일 귀가를 기준으로 매장 운영시간을 대조했어요. 출발 요일이 바뀌면 매장별 쉬는 요일부터 확인해 주세요.",
+    "영업시간과 휴무는 2026.09.17 공개 시간표 기준이에요. 임시휴무·명절 운영·재료 소진은 변동될 수 있어 출발 전 전화나 연결된 매장정보를 확인해 주세요.",
+    "다른 권역의 식당·카페는 차량 이동이 필요해요. 표시한 방문시각은 계획이며 대기와 교통 상황에 따라 산책 시간을 조정해요."
+  ]
+}

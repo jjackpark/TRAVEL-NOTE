@@ -10,3 +10,24 @@ node_modules/
 .env.*
 Thumbs.db
 .DS_Store
+# Local research evidence and one-time content/photo migrations
+/research/
+/research-*.mjs
+/inspect-*.mjs
+/refine-venues.mjs
+/review-candidates.mjs
+/finish-research.mjs
+/refresh-hours.mjs
+/final-venue-additions.mjs
+/pick-final-lunch.mjs
+/set-final-lunch.mjs
+/apply-venue-data.mjs
+/update-venue-layout.mjs
+/fetch-*-photos.mjs
+/search-scenic-photos.mjs
+/fetch-extra-scenic.mjs
+/finish-photo-sources.mjs
+/apply-photos.mjs
+/tripinfo-search.mjs
+/*contact-sheet.py
+/github-pages-admin.mjs

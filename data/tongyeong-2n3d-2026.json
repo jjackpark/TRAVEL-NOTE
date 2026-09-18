@@ -29,14 +29,14 @@
   },
   "hotness": {
     "score": null,
-    "sources_count": 5,
+    "sources_count": 12,
     "last_verified": null,
     "signals": []
   },
-  "research_note": "2026.09.17 관광 자료·메뉴 안내 참고 · 실제 방문 및 실시간 영업 확인 전 · 시간과 동선은 편집한 여행 제안",
+  "research_note": "2026.09.17 실제 매장명·주소·메뉴와 공개 주간 영업표 확인. 금–일 일정 기준으로 영업시간을 대조했으며, 전화 확인이나 실시간 영업 보장은 아니에요. 브레이크타임·주문 마감 미기재는 별도로 표시했어요.",
   "sources": [
     {
-      "label": "한일김밥 · 참고 자료",
+      "label": "한일김밥 · 영업시간·휴무 확인 자료",
       "url": "https://www.diningcode.com/profile.php?rid=hcykOLKD9qbU"
     },
     {
@@ -54,12 +54,40 @@
     {
       "label": "동피랑쭈굴 · 참고 자료",
       "url": "https://www.tabling.co.kr/restaurant/8522"
+    },
+    {
+      "label": "바이사이드 · 영업시간·휴무 확인 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=Pba54tFLrdxw"
+    },
+    {
+      "label": "동피랑전복마을 · 영업시간·휴무 확인 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=ojwaA3QkVTSP"
+    },
+    {
+      "label": "원조 시락국 · 영업시간·휴무 확인 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=WTYRQ85V6OWR"
+    },
+    {
+      "label": "동피랑쭈굴 · 영업시간·휴무 확인 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=6iMo5gMgYaCR"
+    },
+    {
+      "label": "통영밥상갯벌 · 영업시간·휴무 확인 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=QGbu9yJdwjWA"
+    },
+    {
+      "label": "뚱보할매김밥 · 영업시간·휴무 확인 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=0otucYRjw9Q2"
+    },
+    {
+      "label": "통영식당 · 영업시간·휴무 확인 자료",
+      "url": "https://www.diningcode.com/profile.php?rid=mbZxizDF6mXH"
     }
   ],
   "stay": {
     "area": "강구안·서호동",
     "type": "2인 숙소 · 미선정",
-    "note": "강구안·서호동에서 2박 연박을 권해요. 숙소는 아직 정하지 않았으며, 주차·조식·체크인 시간은 예약 전에 확인하세요."
+    "note": "숙소는 미선정이에요. 주차와 체크인 시간을 확인하고 예약하세요. 아침 식사는 일정에 적힌 실제 매장을 이용하는 구성입니다. 같은 숙소에서 두 밤을 보내요."
   },
   "days": [
     {
@@ -71,26 +99,70 @@
           "time": "13:00",
           "type": "점심",
           "name": "한일김밥",
-          "one_liner": "김밥과 매콤한 곁들임을 함께 먹는 충무김밥으로 시작해요.",
-          "walk_note": "도보 약 10–15분 → 동피랑",
+          "one_liner": "충무김밥, 오징어무침 · 산책 사이에 쉬어가는 점심",
+          "walk_note": "다음: 동피랑마을 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
           "verified": false,
           "detail": {
-            "what": "김밥과 매콤한 곁들임을 함께 먹는 충무김밥으로 시작해요.",
+            "what": "한일김밥에서 산책 사이에 쉬어가는 점심 시간을 가져요. 충무김밥(1개), 충무김밥(10개) 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
             "menu": [
-              "충무김밥"
+              "충무김밥(1개)",
+              "충무김밥(10개)"
             ],
-            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
-            "tips": "같은 상호의 지점이 있으면 강구안 동선을 기준으로 확인해요.",
-            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
+            "why": "경상남도 통영시 통영해안로 319에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "매일 06:00–23:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
             "source": "https://www.diningcode.com/profile.php?rid=hcykOLKD9qbU"
           },
           "photo": {
-            "url": "images/tongyeong-food.webp",
-            "alt": "한일김밥 충무김밥",
-            "caption": "한일김밥 충무김밥",
-            "credit": "다이닝코드 방문자",
+            "url": "images/venues/hcykOLKD9qbU.webp",
+            "alt": "한일김밥 매장 페이지에 게시된 사진",
+            "caption": "한일김밥 · 매장 사진",
             "source": "https://www.diningcode.com/profile.php?rid=hcykOLKD9qbU",
-            "note": "자료 사진으로 방문 시 풍경·메뉴 구성과 다를 수 있어요. 사진 출처에서 촬영 맥락을 확인할 수 있어요."
+            "credit": "다이닝코드 · 써니1123",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
+          },
+          "business": {
+            "hours": "매일 06:00–23:00",
+            "closed_days": "휴무 없음 (공개 주간표 기준)",
+            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
+            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
+            "address": "경상남도 통영시 통영해안로 319",
+            "phone": "055-645-2647",
+            "source": "https://www.diningcode.com/profile.php?rid=hcykOLKD9qbU",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 06:00 - 23:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 06:00 - 23:00"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 06:00 - 23:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 06:00 - 23:00"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 06:00 - 23:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 06:00 - 23:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 06:00 - 23:00"
+              }
+            ],
+            "closed_weekdays": []
           }
         },
         {
@@ -98,7 +170,7 @@
           "type": "산책",
           "name": "동피랑마을",
           "one_liner": "골목을 따라 천천히 올라가 항구 전망을 봐요.",
-          "walk_note": "근처 카페에서 휴식",
+          "walk_note": "다음: 바이사이드 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
           "verified": false,
           "detail": {
             "what": "골목을 따라 천천히 올라가 항구 전망을 봐요.",
@@ -122,37 +194,142 @@
         {
           "time": "16:00",
           "type": "카페",
-          "name": "강구안 주변 카페",
-          "one_liner": "먼 길 온 첫날은 항구 앞에서 쉬어가요.",
-          "walk_note": "숙소 체크인 후 저녁",
+          "name": "바이사이드",
+          "one_liner": "카페 · 차와 디저트를 즐기는 휴식",
+          "walk_note": "다음: 동피랑전복마을 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
           "verified": false,
           "detail": {
-            "what": "먼 길 온 첫날은 항구 앞에서 쉬어가요.",
+            "what": "바이사이드에서 차와 디저트를 즐기는 휴식 시간을 가져요. 베이커리, 아메리카노(HOT_ICE) 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
             "menu": [
-              "커피·차 · 매장 현장 선택"
+              "베이커리",
+              "아메리카노(HOT_ICE)"
             ],
-            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
-            "tips": "상호를 확정하지 않은 휴식 구간이에요. 좌석과 주차 여건을 보고 골라요.",
-            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
-            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=9b235f7e-620e-40f1-b5a5-d7f48a3b3305"
+            "why": "경상남도 통영시 항남1길 12 2층 바이사이드에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "매일 11:00–23:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=Pba54tFLrdxw"
+          },
+          "business": {
+            "hours": "매일 11:00–23:00",
+            "closed_days": "휴무 없음 (공개 주간표 기준)",
+            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
+            "last_order": "월·화·수·금·토·일 22:00",
+            "address": "경상남도 통영시 항남1길 12 2층 바이사이드",
+            "phone": "0507-1428-8661",
+            "source": "https://www.diningcode.com/profile.php?rid=Pba54tFLrdxw",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 11:00 - 23:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 11:00 - 23:00 라스트오더: 22:00"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 11:00 - 23:00 라스트오더: 22:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 11:00 - 23:00 라스트오더: 22:00"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 11:00 - 23:00 라스트오더: 22:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 11:00 - 23:00 라스트오더: 22:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 11:00 - 23:00 라스트오더: 22:00"
+              }
+            ],
+            "closed_weekdays": []
+          },
+          "photo": {
+            "url": "images/venues/Pba54tFLrdxw.webp",
+            "alt": "바이사이드 매장 페이지에 게시된 사진",
+            "caption": "바이사이드 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=Pba54tFLrdxw",
+            "credit": "다이닝코드 · 봉효22",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
           }
         },
         {
           "time": "18:00",
           "type": "저녁",
           "name": "동피랑전복마을",
-          "one_liner": "전복솥밥으로 따뜻한 저녁을 먹어요.",
-          "walk_note": "숙소 복귀",
+          "one_liner": "전복, 전복돌솥밥 · 하루를 마무리하는 저녁",
+          "walk_note": "숙소로 이동해 휴식 · 주차·체크인 시간 확인",
           "verified": false,
           "detail": {
-            "what": "전복솥밥으로 따뜻한 저녁을 먹어요.",
+            "what": "동피랑전복마을에서 하루를 마무리하는 저녁 시간을 가져요. 전복돌솥밥세트, 전복죽세트 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
             "menu": [
-              "전복솥밥"
+              "전복돌솥밥세트",
+              "전복죽세트",
+              "멍게비빔밥세트"
             ],
-            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
-            "tips": "대기·주문 마감 시간을 확인해요.",
-            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
-            "source": "https://www.tabling.co.kr/restaurant/5311"
+            "why": "경상남도 통영시 해송정2길 29 대풍관 2층에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "매일 09:00–21:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=ojwaA3QkVTSP"
+          },
+          "photo": {
+            "url": "images/venues/ojwaA3QkVTSP.webp",
+            "alt": "동피랑전복마을 매장 페이지에 게시된 사진",
+            "caption": "동피랑전복마을 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=ojwaA3QkVTSP",
+            "credit": "다이닝코드 · zarni",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
+          },
+          "business": {
+            "hours": "매일 09:00–21:00",
+            "closed_days": "휴무 없음 (공개 주간표 기준)",
+            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
+            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
+            "address": "경상남도 통영시 해송정2길 29 대풍관 2층",
+            "phone": "0507-1345-4406",
+            "source": "https://www.diningcode.com/profile.php?rid=ojwaA3QkVTSP",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 09:00 - 21:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 09:00 - 21:00"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 09:00 - 21:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 09:00 - 21:00"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 09:00 - 21:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 09:00 - 21:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 09:00 - 21:00"
+              }
+            ],
+            "closed_weekdays": []
           }
         }
       ]
@@ -165,19 +342,70 @@
         {
           "time": "09:00",
           "type": "아침",
-          "name": "원조시락국",
-          "one_liner": "시장 안에서 시락국 한 그릇으로 시작해요.",
-          "walk_note": "도보 약 10–20분 → 서피랑",
+          "name": "원조 시락국",
+          "one_liner": "시락국 · 하루를 시작하는 아침 식사",
+          "walk_note": "다음: 서피랑마을 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
           "verified": false,
           "detail": {
-            "what": "시장 안에서 시락국 한 그릇으로 시작해요.",
+            "what": "원조 시락국에서 하루를 시작하는 아침 식사 시간을 가져요. 시락국밥 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
             "menu": [
-              "시락국"
+              "시락국밥"
             ],
-            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
-            "tips": "이동·대기 시간은 여유 있게 잡고, 당일 운영 여부와 주차 위치를 확인하세요.",
-            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
-            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=4164b0e3-4a31-4ea6-9056-085ff86697d4"
+            "why": "경상남도 통영시 새터길 12-10에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "매일 04:30–16:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=WTYRQ85V6OWR"
+          },
+          "photo": {
+            "url": "images/venues/WTYRQ85V6OWR.webp",
+            "alt": "원조 시락국 매장 페이지에 게시된 사진",
+            "caption": "원조 시락국 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=WTYRQ85V6OWR",
+            "credit": "다이닝코드 · 투명그림",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
+          },
+          "business": {
+            "hours": "매일 04:30–16:00",
+            "closed_days": "휴무 없음 (공개 주간표 기준)",
+            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
+            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
+            "address": "경상남도 통영시 새터길 12-10",
+            "phone": "055-646-5973",
+            "source": "https://www.diningcode.com/profile.php?rid=WTYRQ85V6OWR",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 04:30 - 16:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 04:30 - 16:00"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 04:30 - 16:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 04:30 - 16:00"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 04:30 - 16:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 04:30 - 16:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 04:30 - 16:00"
+              }
+            ],
+            "closed_weekdays": []
           }
         },
         {
@@ -185,7 +413,7 @@
           "type": "산책",
           "name": "서피랑마을",
           "one_liner": "항구가 보이는 골목을 돌아보되 계단은 무리하지 않아요.",
-          "walk_note": "차량 약 10분 → 점심",
+          "walk_note": "다음: 동피랑쭈굴 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
           "verified": false,
           "detail": {
             "what": "항구가 보이는 골목을 돌아보되 계단은 무리하지 않아요.",
@@ -196,24 +424,89 @@
             "tips": "이동·대기 시간은 여유 있게 잡고, 당일 운영 여부와 주차 위치를 확인하세요.",
             "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
             "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=9b235f7e-620e-40f1-b5a5-d7f48a3b3305"
+          },
+          "photo": {
+            "url": "images/commons-7d79700d0d.jpg",
+            "alt": "통영 서피랑",
+            "caption": "통영 서피랑",
+            "credit": "Republic of Korea from Seoul, Republic of Korea",
+            "source": "https://commons.wikimedia.org/wiki/File:Tongyeongsi_20141125_16_(15688358317).jpg",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "kind": "place",
+            "note": "촬영 시기와 계절에 따라 현재 풍경과 다를 수 있어요.",
+            "original_title": "File:Tongyeongsi 20141125 16 (15688358317).jpg"
           }
         },
         {
           "time": "12:00",
           "type": "점심",
           "name": "동피랑쭈굴",
-          "one_liner": "멍게비빔밥 등 바다 향이 있는 식사를 골라요.",
-          "walk_note": "차량 약 10–20분 → 이순신공원",
+          "one_liner": "물회, 쭈꾸미 · 산책 사이에 쉬어가는 점심",
+          "walk_note": "다음: 이순신공원 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
           "verified": false,
           "detail": {
-            "what": "멍게비빔밥 등 바다 향이 있는 식사를 골라요.",
+            "what": "동피랑쭈굴에서 산책 사이에 쉬어가는 점심 시간을 가져요. 멍게비빔밥, 물회세트 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
             "menu": [
-              "멍게비빔밥 · 당일 메뉴 확인"
+              "멍게비빔밥",
+              "물회세트",
+              "(종료)석화찜(굴찜, 굴구이)"
             ],
-            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
-            "tips": "굴 메뉴는 계절과 공급에 따라 달라지므로 운영 메뉴를 확인해요.",
-            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
-            "source": "https://www.tabling.co.kr/restaurant/8522"
+            "why": "경상남도 통영시 통영해안로 363-1에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "월·화·수·목·금 10:30–20:40 / 토 10:40–21:00 / 일 10:40–20:40",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=6iMo5gMgYaCR"
+          },
+          "photo": {
+            "url": "images/venues/6iMo5gMgYaCR.webp",
+            "alt": "동피랑쭈굴 매장 페이지에 게시된 사진",
+            "caption": "동피랑쭈굴 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=6iMo5gMgYaCR",
+            "credit": "다이닝코드 · 서아띠",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
+          },
+          "business": {
+            "hours": "월·화·수·목·금 10:30–20:40 / 토 10:40–21:00 / 일 10:40–20:40",
+            "closed_days": "휴무 없음 (공개 주간표 기준)",
+            "break_time": "월·화·수·금 16:00–17:00",
+            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
+            "address": "경상남도 통영시 통영해안로 363-1",
+            "phone": "0507-1424-3697",
+            "source": "https://www.diningcode.com/profile.php?rid=6iMo5gMgYaCR",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 10:30 - 20:40"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 10:30 - 20:40 브레이크타임: 16:00 - 17:00"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 10:40 - 21:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 10:40 - 20:40"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 10:30 - 20:40 브레이크타임: 16:00 - 17:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 10:30 - 20:40 브레이크타임: 16:00 - 17:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 10:30 - 20:40 브레이크타임: 16:00 - 17:00"
+              }
+            ],
+            "closed_weekdays": []
           }
         },
         {
@@ -221,7 +514,7 @@
           "type": "산책",
           "name": "이순신공원",
           "one_liner": "바다를 바라보는 길을 걸으며 오후를 보내요.",
-          "walk_note": "카페 또는 숙소 휴식",
+          "walk_note": "다음: 바이사이드 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
           "verified": false,
           "detail": {
             "what": "바다를 바라보는 길을 걸으며 오후를 보내요.",
@@ -232,42 +525,159 @@
             "tips": "이동·대기 시간은 여유 있게 잡고, 당일 운영 여부와 주차 위치를 확인하세요.",
             "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
             "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=9b235f7e-620e-40f1-b5a5-d7f48a3b3305"
+          },
+          "photo": {
+            "url": "images/commons-1b7fc9b888.jpg",
+            "alt": "통영 이순신공원",
+            "caption": "통영 이순신공원",
+            "credit": "Grampus",
+            "source": "https://commons.wikimedia.org/wiki/File:Yi_Sun-Sin_Park_02.JPG",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "kind": "place",
+            "note": "촬영 시기와 계절에 따라 현재 풍경과 다를 수 있어요.",
+            "original_title": "File:Yi Sun-Sin Park 02.JPG"
           }
         },
         {
           "time": "15:30",
           "type": "카페",
-          "name": "강구안 카페",
-          "one_liner": "오후에는 돌아와 앉아서 쉬어요.",
-          "walk_note": "근처에서 저녁",
+          "name": "바이사이드",
+          "one_liner": "카페 · 차와 디저트를 즐기는 휴식",
+          "walk_note": "다음: 통영밥상갯벌 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
           "verified": false,
           "detail": {
-            "what": "오후에는 돌아와 앉아서 쉬어요.",
+            "what": "바이사이드에서 차와 디저트를 즐기는 휴식 시간을 가져요. 베이커리, 아메리카노(HOT_ICE) 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
             "menu": [
-              "커피·차 · 매장 현장 선택"
+              "베이커리",
+              "아메리카노(HOT_ICE)"
             ],
-            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
-            "tips": "상호를 확정하지 않은 휴식 구간이에요. 좌석과 주차 여건을 보고 골라요.",
-            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
-            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=9b235f7e-620e-40f1-b5a5-d7f48a3b3305"
+            "why": "경상남도 통영시 항남1길 12 2층 바이사이드에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "매일 11:00–23:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=Pba54tFLrdxw"
+          },
+          "business": {
+            "hours": "매일 11:00–23:00",
+            "closed_days": "휴무 없음 (공개 주간표 기준)",
+            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
+            "last_order": "월·화·수·금·토·일 22:00",
+            "address": "경상남도 통영시 항남1길 12 2층 바이사이드",
+            "phone": "0507-1428-8661",
+            "source": "https://www.diningcode.com/profile.php?rid=Pba54tFLrdxw",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 11:00 - 23:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 11:00 - 23:00 라스트오더: 22:00"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 11:00 - 23:00 라스트오더: 22:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 11:00 - 23:00 라스트오더: 22:00"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 11:00 - 23:00 라스트오더: 22:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 11:00 - 23:00 라스트오더: 22:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 11:00 - 23:00 라스트오더: 22:00"
+              }
+            ],
+            "closed_weekdays": []
+          },
+          "photo": {
+            "url": "images/venues/Pba54tFLrdxw.webp",
+            "alt": "바이사이드 매장 페이지에 게시된 사진",
+            "caption": "바이사이드 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=Pba54tFLrdxw",
+            "credit": "다이닝코드 · 봉효22",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
           }
         },
         {
           "time": "18:00",
           "type": "저녁",
-          "name": "통영중앙시장 주변 저녁",
-          "one_liner": "원하는 생선 요리나 한식을 골라 나눠 먹어요.",
-          "walk_note": "숙소 복귀",
+          "name": "통영밥상갯벌",
+          "one_liner": "한정식, 굴밥 · 하루를 마무리하는 저녁",
+          "walk_note": "숙소로 이동해 휴식 · 주차·체크인 시간 확인",
           "verified": false,
           "detail": {
-            "what": "원하는 생선 요리나 한식을 골라 나눠 먹어요.",
+            "what": "통영밥상갯벌에서 하루를 마무리하는 저녁 시간을 가져요. 통영밥상, 굴밥정식 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
             "menu": [
-              "생선구이·한식 · 점포 현장 선택"
+              "통영밥상",
+              "굴밥정식",
+              "멍게밥상"
             ],
-            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
-            "tips": "시장 안 점포는 현장 선택이에요. 저녁 영업 여부를 미리 확인하고, 문을 닫으면 숙소 인근 한식당으로 바꿔요.",
-            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
-            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=9b235f7e-620e-40f1-b5a5-d7f48a3b3305"
+            "why": "경상남도 통영시 동충4길 4 1층 통영밥상갯벌에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "매일 10:00–20:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=QGbu9yJdwjWA"
+          },
+          "business": {
+            "hours": "매일 10:00–20:00",
+            "closed_days": "휴무 없음 (공개 주간표 기준)",
+            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
+            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
+            "address": "경상남도 통영시 동충4길 4 1층 통영밥상갯벌",
+            "phone": "055-648-5599",
+            "source": "https://www.diningcode.com/profile.php?rid=QGbu9yJdwjWA",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 10:00 - 20:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 10:00 - 20:00"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 10:00 - 20:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 10:00 - 20:00"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 10:00 - 20:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 10:00 - 20:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 10:00 - 20:00"
+              }
+            ],
+            "closed_weekdays": []
+          },
+          "photo": {
+            "url": "images/venues/QGbu9yJdwjWA.webp",
+            "alt": "통영밥상갯벌 매장 페이지에 게시된 사진",
+            "caption": "통영밥상갯벌 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=QGbu9yJdwjWA",
+            "credit": "다이닝코드 · 뚜꾸리",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
           }
         }
       ]
@@ -280,19 +690,70 @@
         {
           "time": "08:30",
           "type": "아침",
-          "name": "숙소에서 아침",
-          "one_liner": "서두르지 않고 아침을 먹은 뒤 출발해요.",
-          "walk_note": "체크아웃 후 강구안으로",
+          "name": "뚱보할매김밥",
+          "one_liner": "충무김밥 · 하루를 시작하는 아침 식사",
+          "walk_note": "다음: 강구안 항구 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
           "verified": false,
           "detail": {
-            "what": "서두르지 않고 아침을 먹은 뒤 출발해요.",
+            "what": "뚱보할매김밥에서 하루를 시작하는 아침 식사 시간을 가져요. 충무김밥 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
             "menu": [
-              "조식 또는 전날 준비한 빵·과일"
+              "충무김밥"
             ],
-            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
-            "tips": "숙소 미선정: 조식 제공 여부·운영시간·별도 요금은 예약할 때 확인하세요.",
-            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
-            "source": ""
+            "why": "경상남도 통영시 통영해안로 325에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "매일 06:00–22:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=0otucYRjw9Q2"
+          },
+          "business": {
+            "hours": "매일 06:00–22:00",
+            "closed_days": "휴무 없음 (공개 주간표 기준)",
+            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
+            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
+            "address": "경상남도 통영시 통영해안로 325",
+            "phone": "055-645-2619",
+            "source": "https://www.diningcode.com/profile.php?rid=0otucYRjw9Q2",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 06:00 - 22:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 06:00 - 22:00"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 06:00 - 22:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 06:00 - 22:00"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 06:00 - 22:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 06:00 - 22:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 06:00 - 22:00"
+              }
+            ],
+            "closed_weekdays": []
+          },
+          "photo": {
+            "url": "images/venues/0otucYRjw9Q2.webp",
+            "alt": "뚱보할매김밥 매장 페이지에 게시된 사진",
+            "caption": "뚱보할매김밥 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=0otucYRjw9Q2",
+            "credit": "다이닝코드 · 서아띠",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
           }
         },
         {
@@ -300,7 +761,7 @@
           "type": "산책",
           "name": "강구안 항구",
           "one_liner": "배가 오가는 항구 주변을 짧게 걸어요.",
-          "walk_note": "점심 식사 장소로",
+          "walk_note": "다음: 통영식당 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
           "verified": false,
           "detail": {
             "what": "배가 오가는 항구 주변을 짧게 걸어요.",
@@ -311,24 +772,89 @@
             "tips": "이동·대기 시간은 여유 있게 잡고, 당일 운영 여부와 주차 위치를 확인하세요.",
             "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
             "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=9b235f7e-620e-40f1-b5a5-d7f48a3b3305"
+          },
+          "photo": {
+            "url": "images/commons-43168e0dd8.jpg",
+            "alt": "통영 강구안 항구",
+            "caption": "통영 강구안 항구",
+            "credit": "Intkorea",
+            "source": "https://commons.wikimedia.org/wiki/File:%EA%B0%95%EA%B5%AC%EC%95%88_gangguan_port.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "kind": "place",
+            "note": "촬영 시기와 계절에 따라 현재 풍경과 다를 수 있어요.",
+            "original_title": "File:강구안 gangguan port.jpg"
           }
         },
         {
           "time": "11:30",
           "type": "점심",
-          "name": "서호동 식당가",
-          "one_liner": "돌아가는 길이 길어 가까운 식당에서 식사를 마쳐요.",
-          "walk_note": "12:30–13:00 수원 출발",
+          "name": "통영식당",
+          "one_liner": "멸치쌈밥, 멸치회 · 산책 사이에 쉬어가는 점심",
+          "walk_note": "식사 후 수원으로 출발 · 실시간 귀가 소요시간 확인",
           "verified": false,
           "detail": {
-            "what": "돌아가는 길이 길어 가까운 식당에서 식사를 마쳐요.",
+            "what": "통영식당에서 산책 사이에 쉬어가는 점심 시간을 가져요. 통영한정식, 멸치쌈밥 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
             "menu": [
-              "국밥·한식 · 점포 현장 선택"
+              "통영한정식",
+              "멸치쌈밥",
+              "멸치회 대"
             ],
-            "why": "이날 머무는 지역 안에서 식사와 산책이 이어지도록 배치한 일정 제안이에요.",
-            "tips": "이동·대기 시간은 여유 있게 잡고, 당일 운영 여부와 주차 위치를 확인하세요.",
-            "hours": "현재 영업시간·휴무·가격 미확인 · 표시 시각은 방문 계획",
-            "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=9b235f7e-620e-40f1-b5a5-d7f48a3b3305"
+            "why": "경상남도 통영시 통영해안로 213에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
+            "hours": "매일 09:00–20:00",
+            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
+            "source": "https://www.diningcode.com/profile.php?rid=mbZxizDF6mXH"
+          },
+          "business": {
+            "hours": "매일 09:00–20:00",
+            "closed_days": "휴무 없음 (공개 주간표 기준)",
+            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
+            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
+            "address": "경상남도 통영시 통영해안로 213",
+            "phone": "055-647-0188",
+            "source": "https://www.diningcode.com/profile.php?rid=mbZxizDF6mXH",
+            "checked_at": "2026-09-17",
+            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "weekly": [
+              {
+                "date": "오늘(목)",
+                "hours": "영업시간: 09:00 - 20:00"
+              },
+              {
+                "date": "9월 18일(금)",
+                "hours": "영업시간: 09:00 - 20:00"
+              },
+              {
+                "date": "9월 19일(토)",
+                "hours": "영업시간: 09:00 - 20:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 09:00 - 20:00"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 09:00 - 20:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 09:00 - 20:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 09:00 - 20:00"
+              }
+            ],
+            "closed_weekdays": []
+          },
+          "photo": {
+            "url": "images/venues/mbZxizDF6mXH.webp",
+            "alt": "통영식당 매장 페이지에 게시된 사진",
+            "caption": "통영식당 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=mbZxizDF6mXH",
+            "credit": "다이닝코드 · 자유로운부인",
+            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
+            "checked_at": "2026-09-18"
           }
         }
       ]
@@ -338,6 +864,8 @@
     "수원 출발 편도 약 4–5시간 예상. 금요일 정체와 휴게소 휴식은 별도로 더하고, 마지막 날 점심 후 귀가해요.",
     "동피랑과 서피랑은 경사·계단이 있어 하루에 한 곳씩 나눴어요.",
     "섬 유람선·케이블카 없이 항구와 시내에서 보내는 코스예요.",
-    "식당 대기가 40분을 넘으면 뒤의 카페·산책 시간을 줄여요. 숙소와 식당 예약은 진행하지 않았어요."
+    "금요일 출발·일요일 귀가를 기준으로 매장 운영시간을 대조했어요. 출발 요일이 바뀌면 매장별 쉬는 요일부터 확인해 주세요.",
+    "영업시간과 휴무는 2026.09.17 공개 시간표 기준이에요. 임시휴무·명절 운영·재료 소진은 변동될 수 있어 출발 전 전화나 연결된 매장정보를 확인해 주세요.",
+    "다른 권역의 식당·카페는 차량 이동이 필요해요. 표시한 방문시각은 계획이며 대기와 교통 상황에 따라 산책 시간을 조정해요."
   ]
 }
