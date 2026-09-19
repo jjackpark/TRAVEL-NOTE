@@ -2,279 +2,642 @@
   "id": "yongin-2n3d-2026",
   "order": 31,
   "city": "용인",
-  "region": "충청",
-  "title": "용인, 호수와 민속마을",
-  "drive": "수원 출발 약 30분–2시간 · 비혼잡 시간대 계획용 추정치",
+  "region": "수도권",
+  "title": "용인, 민속마을과 호수 옆 미술관",
+  "drive": "약 30분~1시간",
   "english": "YONGIN",
-  "kicker": "NEARBY, SLOW & TOGETHER",
+  "kicker": "LOCAL TABLES & SLOW WALKS",
   "themes": [
-    "산책",
-    "산책",
+    "역사",
+    "호수",
     "맛집"
   ],
   "season": [
     "가을",
     "봄"
   ],
-  "summary": "한국민속촌과 호수 산책, 로컬 식당을 엮은 여유로운 사흘.",
-  "distance_from_suwon": "수원 출발 약 30분–2시간 · 비혼잡 시간대 계획용 추정치",
-  "parking": "숙소 및 방문지 주차장 이용 · 가능 여부와 요금 미확인",
+  "summary": "기흥호수와 한국민속촌, 백남준아트센터를 잇고 마지막 날 고기리 막국수로 마무리해요.",
+  "distance_from_suwon": "수원 출발 약 30분~1시간 · 자차·비혼잡 시간대 계획용 추정, 주말 정체 시 증가",
+  "parking": "관광지·공영주차장 중심으로 계획 · 식당별 전용주차 여부와 요금은 방문 전 확인",
   "hero_photo": {
-    "url": "images/scenic/3acb79245a88.jpg",
-    "alt": "용인 대표 풍경",
-    "caption": "용인 대표 풍경",
-    "source": "https://commons.wikimedia.org/wiki/File:Oeam_Folk_Village,_2006_(1).jpg",
-    "credit": "indytrucks (a flickr user)",
-    "license": "CC BY 2.0",
-    "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "note": "출처 사진의 촬영 시점과 방문 시기의 풍경은 다를 수 있어요."
+    "url": "images/nearby/bbb988ee-f8e9-43e7-8fdf-691cd78a68ba.jpg",
+    "alt": "한국민속촌 풍경",
+    "caption": "한국민속촌",
+    "source": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=bbb988ee-f8e9-43e7-8fdf-691cd78a68ba",
+    "credit": "한국관광공사 대한민국 구석구석",
+    "note": "해당 여행지 소개 사진입니다. 촬영 계절과 현재 풍경은 다를 수 있어요."
   },
   "hotness": {
     "score": null,
-    "sources_count": 8,
-    "last_verified": null,
+    "sources_count": 10,
+    "last_verified": "2026-09-19",
     "signals": []
   },
-  "research_note": "2026.09.18 근교 여행지 초안. 실제 영업시간·휴무와 방문 가능 여부는 출발 전 공식 채널에서 다시 확인하세요.",
+  "research_note": "2026.09.19 각 지역의 관광기관·공개 매장정보와 주소를 대조해 새로 구성했습니다. 금~일 기본 일정이며 특정 날짜 예약을 보장하지 않습니다. 추석 등 명절의 날짜별 휴무는 매장 안내를 우선하세요.",
   "sources": [
     {
-      "label": "용인 관광 참고 자료",
-      "url": "https://korean.visitkorea.or.kr/"
+      "label": "장수촌 안내",
+      "url": "https://www.diningcode.com/profile.php?rid=jvZKsOZeDCPM"
+    },
+    {
+      "label": "기흥호수공원 안내",
+      "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=21eb3e46-d8fd-4f28-9d5f-b290f11eb67b"
+    },
+    {
+      "label": "만수정 안내",
+      "url": "https://www.diningcode.com/profile.php?rid=szDyfQIbgmh4"
+    },
+    {
+      "label": "양평해장국 기흥IC점 안내",
+      "url": "https://www.diningcode.com/profile.php?rid=M80i6TIfVneO"
+    },
+    {
+      "label": "한국민속촌 안내",
+      "url": "https://koreanfolk.co.kr/"
+    },
+    {
+      "label": "민속촌길목집 안내",
+      "url": "https://www.diningcode.com/profile.php?rid=9i5ekajbslqC"
+    },
+    {
+      "label": "백남준아트센터 안내",
+      "url": "https://www.ggcf.kr/pages/NamJunePaikArtCenter"
+    },
+    {
+      "label": "옛날경성순대국 안내",
+      "url": "https://www.diningcode.com/profile.php?rid=QgWOWXBpzQ6x"
+    },
+    {
+      "label": "고기리막국수 안내",
+      "url": "https://www.diningcode.com/profile.php?rid=IyEWFMiXd2nG"
+    },
+    {
+      "label": "스테이 어도러블 안내",
+      "url": "https://www.diningcode.com/profile.php?rid=sxMCnTli8WiM"
     }
   ],
   "stay": {
-    "area": "온양온천역 인근에서 2박",
-    "type": "주차 가능한 2인 숙소 · 미선정",
-    "note": "숙소는 미선정이에요. 주차와 체크인 시간을 확인하고 예약하세요. 아침 식사는 일정에 적힌 실제 매장을 이용하는 구성입니다. 같은 숙소에서 두 밤을 보내요."
+    "area": "신갈·기흥역 주변에서 2박",
+    "type": "2인 숙소 · 개별 선택",
+    "note": "신갈·기흥역 주변의 주차 가능한 숙소 한 곳에서 두 밤을 보내는 구성입니다. 실제 숙소는 아직 선택하지 않았으므로 가격·주차·체크인 조건을 확인해 예약하세요."
   },
+  "tips": [
+    "기흥 권역에 2박하면 첫째·둘째 날 이동을 줄일 수 있어요.",
+    "셋째 날만 수지 고기동으로 이동해요. 고기리막국수 대기가 길면 보정동 카페 시간을 뒤로 미룹니다.",
+    "민속촌은 공연 시간에 따라 관람 순서를 바꾸고, 미술관에는 오후 5시 전에 입장해요."
+  ],
   "days": [
     {
       "day": 1,
-      "title": "나무 그늘에서 시작",
-      "area": "현충사 · 온양",
+      "title": "기흥호수의 느긋한 오후",
+      "area": "신갈 · 기흥호수",
       "steps": [
         {
           "time": "12:00",
           "type": "점심",
-          "name": "양평해장국 염치휴게소점",
-          "one_liner": "해장국, 소고기국밥 · 산책 사이에 쉬어가는 점심",
-          "verified": false,
+          "name": "장수촌",
+          "one_liner": "토종닭 누룽지 백숙 · 누룽지백숙",
+          "verified": true,
           "detail": {
-            "what": "양평해장국 염치휴게소점에서 산책 사이에 쉬어가는 점심 시간을 가져요. 해장국, 내장탕 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
+            "what": "장수촌에서 토종닭 누룽지 백숙를 중심으로 주문해요. 공개 메뉴를 참고한 일정이며 가격과 판매 메뉴는 현장에서 확인합니다.",
             "menu": [
-              "해장국",
-              "내장탕",
-              "소고기국밥"
+              "토종닭 누룽지 백숙",
+              "누룽지백숙",
+              "한방능이백숙(오리)"
             ],
-            "why": "충청남도 아산시 염치읍 아산로 724에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
-            "hours": "월·화·수·목·금 06:00–20:00 / 토·일 06:00–19:00",
-            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
-            "source": "https://www.diningcode.com/profile.php?rid=Qr3PhgIRnmma"
+            "why": "경기도 용인시 기흥구 용구대로2145번길 3 신갈외식타운에 있는 실제 매장으로, 이날 방문하는 권역과 영업시간에 맞춰 배치했어요.",
+            "hours": "매일 10:30-21:00",
+            "tips": "주말 대기·재료 소진과 임시휴무가 있을 수 있어요. 아래 쉬는 요일과 주문 마감 시간을 확인하고 방문하세요.",
+            "source": "https://www.diningcode.com/profile.php?rid=jvZKsOZeDCPM"
           },
-          "walk_note": "다음: 현충사 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
           "business": {
-            "hours": "월·화·수·목·금 06:00–20:00 / 토·일 06:00–19:00",
-            "closed_days": "휴무 없음 (공개 주간표 기준)",
-            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
-            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
-            "address": "충청남도 아산시 염치읍 아산로 724",
-            "phone": "041-546-3332",
-            "source": "https://www.diningcode.com/profile.php?rid=Qr3PhgIRnmma",
-            "checked_at": "2026-09-17",
-            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "hours": "매일 10:30-21:00",
+            "closed_days": "정기휴무 없음으로 안내",
+            "break_time": "별도 안내 없음 · 매장 확인",
+            "last_order": "별도 안내 없음 · 매장 확인",
+            "special_hours": "확인된 날짜별 예외: 9월 25일(금) 휴무",
+            "address": "경기도 용인시 기흥구 용구대로2145번길 3 신갈외식타운",
+            "phone": "031-282-6640",
+            "source": "https://www.diningcode.com/profile.php?rid=jvZKsOZeDCPM",
+            "checked_at": "2026-09-19",
             "weekly": [
               {
-                "date": "오늘(목)",
-                "hours": "영업시간: 06:00 - 20:00"
-              },
-              {
-                "date": "9월 18일(금)",
-                "hours": "영업시간: 06:00 - 20:00"
-              },
-              {
-                "date": "9월 19일(토)",
-                "hours": "영업시간: 06:00 - 19:00"
+                "date": "오늘(토)",
+                "hours": "영업시간: 10:30 - 21:00"
               },
               {
                 "date": "9월 20일(일)",
-                "hours": "영업시간: 06:00 - 19:00"
+                "hours": "영업시간: 10:30 - 21:00"
               },
               {
                 "date": "9월 21일(월)",
-                "hours": "영업시간: 06:00 - 20:00"
+                "hours": "영업시간: 10:30 - 21:00"
               },
               {
                 "date": "9월 22일(화)",
-                "hours": "영업시간: 06:00 - 20:00"
+                "hours": "영업시간: 10:30 - 21:00"
               },
               {
                 "date": "9월 23일(수)",
-                "hours": "영업시간: 06:00 - 20:00"
+                "hours": "영업시간: 10:30 - 21:00"
+              },
+              {
+                "date": "9월 24일(목)",
+                "hours": "영업시간: 10:30 - 21:00"
+              },
+              {
+                "date": "9월 25일(금)",
+                "hours": "휴무일"
               }
             ],
             "closed_weekdays": []
           },
           "photo": {
-            "url": "images/commons-616429b009.jpg",
-            "alt": "국밥 · 메뉴 참고 사진",
-            "caption": "국밥 · 메뉴 참고 사진",
-            "credit": "egg (Hong, Yun Seon)",
-            "source": "https://commons.wikimedia.org/wiki/File:Korean_soup-Gukbap-01.jpg",
-            "license": "CC BY 2.0",
-            "license_url": "https://creativecommons.org/licenses/by/2.0",
-            "kind": "menu",
-            "note": "해당 매장의 사진을 확보하지 못해 넣은 음식 종류 참고 사진입니다. 이 매장에서 촬영한 사진이 아니며 실제 메뉴와 다를 수 있어요.",
-            "original_title": "File:Korean soup-Gukbap-01.jpg"
-          }
+            "url": "images/nearby/venue-jvZKsOZeDCPM.webp",
+            "alt": "장수촌 매장 게시 사진",
+            "caption": "장수촌 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=jvZKsOZeDCPM",
+            "credit": "다이닝코드 · 맛잽잉",
+            "note": "해당 매장 페이지에 게시된 방문 사진입니다. 촬영 시점에 따라 메뉴·공간이 현재와 다를 수 있어요."
+          },
+          "walk_note": "차량 약 10~20분 · 기흥호수 공원 접근점 · 계획용 추정"
         },
         {
           "time": "13:30",
           "type": "산책",
-          "name": "현충사",
-          "one_liner": "경내의 나무와 길을 따라 60분 정도 천천히 관람해요.",
-          "verified": false,
+          "name": "기흥호수공원",
+          "one_liner": "신갈저수지의 물빛정원과 가까운 수변길을 걷습니다.",
+          "verified": true,
           "detail": {
-            "what": "경내의 나무와 길을 따라 60분 정도 천천히 관람해요.",
-            "menu": [
-              "관람·산책·휴식 일정 제안"
-            ],
-            "why": "같은 권역에서 걷기와 식사를 이어가고 오후에는 쉬는 시간을 남겼어요.",
-            "hours": "방문 계획 시각 · 운영시간·휴무·입장료 확인 필요",
-            "tips": "온천 이용은 선택 사항이에요. 숙소의 온천수 제공 여부와 목욕 시설 운영을 확인하고 예약해요.",
-            "source": "https://tour.asan.go.kr/"
+            "what": "신갈저수지의 물빛정원과 가까운 수변길을 걷습니다. 긴 전체 둘레길 대신 주차한 지점에서 짧게 왕복해요.",
+            "menu": [],
+            "why": "긴 전체 둘레길 대신 주차한 지점에서 짧게 왕복해요.",
+            "hours": "야외 공원 · 정기휴무 없음, 시설별 운영 별도",
+            "tips": "전체 둘레길은 10km가 넘어요. 이번에는 60~90분 산책으로 제한하고 차로 식당에 이동합니다.",
+            "source": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=21eb3e46-d8fd-4f28-9d5f-b290f11eb67b"
           },
-          "walk_note": "다음: 언더힐 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
           "photo": {
-            "url": "images/scenic/c85895ef450c.jpg",
-            "alt": "현충사 풍경",
-            "caption": "현충사",
-            "source": "https://commons.wikimedia.org/wiki/File:Korea-Asan-Spring_garden_near_Hyeonchungsa-01.jpg",
-            "credit": "Jo from Brisbane, Australia",
-            "license": "CC BY 2.0",
-            "license_url": "https://creativecommons.org/licenses/by/2.0",
-            "note": "출처 사진의 촬영 시점과 방문 시기의 풍경은 다를 수 있어요."
-          }
+            "url": "images/nearby/21eb3e46-d8fd-4f28-9d5f-b290f11eb67b.jpg",
+            "alt": "기흥호수공원 풍경",
+            "caption": "기흥호수공원",
+            "source": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=21eb3e46-d8fd-4f28-9d5f-b290f11eb67b",
+            "credit": "한국관광공사 대한민국 구석구석",
+            "note": "해당 여행지 소개 사진입니다. 촬영 계절과 현재 풍경은 다를 수 있어요."
+          },
+          "walk_note": "산책 뒤 자유시간 · 식당까지 차량 약 10~20분 · 계획용 추정"
         },
         {
-          "time": "15:30",
-          "type": "카페",
-          "name": "언더힐",
-          "one_liner": "커피, 카페 · 차와 디저트를 즐기는 휴식",
-          "verified": false,
+          "time": "18:00",
+          "type": "저녁",
+          "name": "만수정",
+          "one_liner": "민물장어(1 kg) · 민물장어",
+          "verified": true,
           "detail": {
-            "what": "언더힐에서 차와 디저트를 즐기는 휴식 시간을 가져요. 아메리카노, 힐라떼 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
+            "what": "만수정에서 민물장어(1 kg)를 중심으로 주문해요. 공개 메뉴를 참고한 일정이며 가격과 판매 메뉴는 현장에서 확인합니다.",
             "menu": [
-              "아메리카노",
-              "힐라떼",
-              "시그니처에이드"
+              "민물장어(1 kg)",
+              "민물장어",
+              "잔치국수"
             ],
-            "why": "충청남도 아산시 염치읍 송곡남길 90 1층 카페 언더힐에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
-            "hours": "매일 09:00–20:30",
-            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
-            "source": "https://www.diningcode.com/profile.php?rid=Ch01ydFlNJHE"
+            "why": "경기도 용인시 기흥구 신정로 135에 있는 실제 매장으로, 이날 방문하는 권역과 영업시간에 맞춰 배치했어요.",
+            "hours": "매일 11:00-21:30",
+            "tips": "주말 대기·재료 소진과 임시휴무가 있을 수 있어요. 아래 쉬는 요일과 주문 마감 시간을 확인하고 방문하세요.",
+            "source": "https://www.diningcode.com/profile.php?rid=szDyfQIbgmh4"
           },
-          "walk_note": "다음: 추억의 꽁당보리밥 아산점 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
           "business": {
-            "hours": "매일 09:00–20:30",
-            "closed_days": "휴무 없음 (공개 주간표 기준)",
-            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
-            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
-            "address": "충청남도 아산시 염치읍 송곡남길 90 1층 카페 언더힐",
-            "phone": "0507-1348-2430",
-            "source": "https://www.diningcode.com/profile.php?rid=Ch01ydFlNJHE",
-            "checked_at": "2026-09-17",
-            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "hours": "매일 11:00-21:30",
+            "closed_days": "정기휴무 없음으로 안내",
+            "break_time": "별도 안내 없음 · 매장 확인",
+            "last_order": "별도 안내 없음 · 매장 확인",
+            "special_hours": "",
+            "address": "경기도 용인시 기흥구 신정로 135",
+            "phone": "0507-1352-4357",
+            "source": "https://www.diningcode.com/profile.php?rid=szDyfQIbgmh4",
+            "checked_at": "2026-09-19",
             "weekly": [
               {
-                "date": "오늘(목)",
-                "hours": "영업시간: 09:00 - 20:30"
-              },
-              {
-                "date": "9월 18일(금)",
-                "hours": "영업시간: 09:00 - 20:30"
-              },
-              {
-                "date": "9월 19일(토)",
-                "hours": "영업시간: 09:00 - 20:30"
+                "date": "오늘(토)",
+                "hours": "영업시간: 11:00 - 21:30"
               },
               {
                 "date": "9월 20일(일)",
-                "hours": "영업시간: 09:00 - 20:30"
+                "hours": "영업시간: 11:00 - 21:30"
               },
               {
                 "date": "9월 21일(월)",
-                "hours": "영업시간: 09:00 - 20:30"
+                "hours": "영업시간: 11:00 - 21:30"
               },
               {
                 "date": "9월 22일(화)",
-                "hours": "영업시간: 09:00 - 20:30"
+                "hours": "영업시간: 11:00 - 21:30"
               },
               {
                 "date": "9월 23일(수)",
-                "hours": "영업시간: 09:00 - 20:30"
+                "hours": "영업시간: 11:00 - 21:30"
+              },
+              {
+                "date": "9월 24일(목)",
+                "hours": "영업시간: 11:00 - 21:30"
+              },
+              {
+                "date": "9월 25일(금)",
+                "hours": "영업시간: 11:00 - 21:30"
               }
             ],
             "closed_weekdays": []
           },
           "photo": {
-            "url": "images/venues/Ch01ydFlNJHE.webp",
-            "alt": "언더힐 매장 페이지에 게시된 사진",
-            "caption": "언더힐 · 매장 사진",
-            "source": "https://www.diningcode.com/profile.php?rid=Ch01ydFlNJHE",
-            "credit": "다이닝코드 · 고독한미식가지망생",
-            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
-            "checked_at": "2026-09-18"
-          }
+            "url": "images/nearby/venue-szDyfQIbgmh4.webp",
+            "alt": "만수정 매장 게시 사진",
+            "caption": "만수정 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=szDyfQIbgmh4",
+            "credit": "다이닝코드 · Noblesse Oblige",
+            "note": "해당 매장 페이지에 게시된 방문 사진입니다. 촬영 시점에 따라 메뉴·공간이 현재와 다를 수 있어요."
+          },
+          "walk_note": "식사 후 숙소에서 휴식 · 숙소는 개별 예약"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "전통마을에서 미디어아트까지",
+      "area": "보라동 · 상갈동 · 중앙시장",
+      "steps": [
+        {
+          "time": "08:30",
+          "type": "아침",
+          "name": "양평해장국 기흥IC점",
+          "one_liner": "해장국 · 소고기국밥",
+          "verified": true,
+          "detail": {
+            "what": "양평해장국 기흥IC점에서 해장국를 중심으로 주문해요. 공개 메뉴를 참고한 일정이며 가격과 판매 메뉴는 현장에서 확인합니다.",
+            "menu": [
+              "해장국",
+              "소고기국밥",
+              "황태해장국"
+            ],
+            "why": "경기도 용인시 기흥구 원고매로 48에 있는 실제 매장으로, 이날 방문하는 권역과 영업시간에 맞춰 배치했어요.",
+            "hours": "화,수,목,금,토/일 05:00-17:00 / 월 05:00-15:00",
+            "tips": "주말 대기·재료 소진과 임시휴무가 있을 수 있어요. 아래 쉬는 요일과 주문 마감 시간을 확인하고 방문하세요.",
+            "source": "https://www.diningcode.com/profile.php?rid=M80i6TIfVneO"
+          },
+          "business": {
+            "hours": "화,수,목,금,토/일 05:00-17:00 / 월 05:00-15:00",
+            "closed_days": "정기휴무 없음으로 안내",
+            "break_time": "별도 안내 없음 · 매장 확인",
+            "last_order": "별도 안내 없음 · 매장 확인",
+            "special_hours": "",
+            "address": "경기도 용인시 기흥구 원고매로 48",
+            "phone": "031-217-3311",
+            "source": "https://www.diningcode.com/profile.php?rid=M80i6TIfVneO",
+            "checked_at": "2026-09-19",
+            "weekly": [
+              {
+                "date": "오늘(토)",
+                "hours": "영업시간: 05:00 - 17:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 05:00 - 17:00"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 05:00 - 15:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 05:00 - 17:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 05:00 - 17:00"
+              },
+              {
+                "date": "9월 24일(목)",
+                "hours": "영업시간: 05:00 - 17:00"
+              },
+              {
+                "date": "9월 25일(금)",
+                "hours": "영업시간: 05:00 - 17:00"
+              }
+            ],
+            "closed_weekdays": []
+          },
+          "photo": {
+            "url": "images/nearby/venue-M80i6TIfVneO.webp",
+            "alt": "양평해장국 기흥IC점 매장 게시 사진",
+            "caption": "양평해장국 기흥IC점 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=M80i6TIfVneO",
+            "credit": "다이닝코드 · JORNAH",
+            "note": "해당 매장 페이지에 게시된 방문 사진입니다. 촬영 시점에 따라 메뉴·공간이 현재와 다를 수 있어요."
+          },
+          "walk_note": "차량 약 20~30분 · 민속촌 주차장 · 계획용 추정"
+        },
+        {
+          "time": "10:00",
+          "type": "산책",
+          "name": "한국민속촌",
+          "one_liner": "전통 가옥 사이를 걷고 당일 열리는 민속 공연을 골라 봅니다.",
+          "verified": true,
+          "detail": {
+            "what": "전통 가옥 사이를 걷고 당일 열리는 민속 공연을 골라 봅니다. 마을 관람에 집중하는 반나절 일정이에요.",
+            "menu": [],
+            "why": "마을 관람에 집중하는 반나절 일정이에요.",
+            "hours": "날짜·계절별 운영시간 상이 · 방문일 달력 확인, 휴장 공지 별도",
+            "tips": "10시 입장을 기준으로 3시간을 잡았어요. 유료 입장권과 공연 시간표는 공식 홈페이지에서 먼저 확인하세요.",
+            "source": "https://koreanfolk.co.kr/"
+          },
+          "photo": {
+            "url": "images/nearby/bbb988ee-f8e9-43e7-8fdf-691cd78a68ba.jpg",
+            "alt": "한국민속촌 풍경",
+            "caption": "한국민속촌",
+            "source": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=bbb988ee-f8e9-43e7-8fdf-691cd78a68ba",
+            "credit": "한국관광공사 대한민국 구석구석",
+            "note": "해당 여행지 소개 사진입니다. 촬영 계절과 현재 풍경은 다를 수 있어요."
+          },
+          "walk_note": "민속촌 관람 약 3시간 후 도보·차량 약 5~10분 · 계획용 추정"
+        },
+        {
+          "time": "13:30",
+          "type": "점심",
+          "name": "민속촌길목집",
+          "one_liner": "해물파전 · 한우설렁탕",
+          "verified": true,
+          "detail": {
+            "what": "민속촌길목집에서 해물파전를 중심으로 주문해요. 공개 메뉴를 참고한 일정이며 가격과 판매 메뉴는 현장에서 확인합니다.",
+            "menu": [
+              "해물파전",
+              "한우설렁탕",
+              "다진소고기덮밥"
+            ],
+            "why": "경기도 용인시 기흥구 민속촌로 90에 있는 실제 매장으로, 이날 방문하는 권역과 영업시간에 맞춰 배치했어요.",
+            "hours": "매일 11:00-22:00",
+            "tips": "주말 대기·재료 소진과 임시휴무가 있을 수 있어요. 아래 쉬는 요일과 주문 마감 시간을 확인하고 방문하세요.",
+            "source": "https://www.diningcode.com/profile.php?rid=9i5ekajbslqC"
+          },
+          "business": {
+            "hours": "매일 11:00-22:00",
+            "closed_days": "정기휴무 없음으로 안내",
+            "break_time": "별도 안내 없음 · 매장 확인",
+            "last_order": "별도 안내 없음 · 매장 확인",
+            "special_hours": "",
+            "address": "경기도 용인시 기흥구 민속촌로 90",
+            "phone": "031-288-2854",
+            "source": "https://www.diningcode.com/profile.php?rid=9i5ekajbslqC",
+            "checked_at": "2026-09-19",
+            "weekly": [
+              {
+                "date": "오늘(토)",
+                "hours": "영업시간: 11:00 - 22:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 11:00 - 22:00"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 11:00 - 22:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 11:00 - 22:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 11:00 - 22:00"
+              },
+              {
+                "date": "9월 24일(목)",
+                "hours": "영업시간: 11:00 - 22:00"
+              },
+              {
+                "date": "9월 25일(금)",
+                "hours": "영업시간: 11:00 - 22:00"
+              }
+            ],
+            "closed_weekdays": []
+          },
+          "photo": {
+            "url": "images/nearby/venue-9i5ekajbslqC.webp",
+            "alt": "민속촌길목집 매장 게시 사진",
+            "caption": "민속촌길목집 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=9i5ekajbslqC",
+            "credit": "다이닝코드 · 심또쿵럽",
+            "note": "해당 매장 페이지에 게시된 방문 사진입니다. 촬영 시점에 따라 메뉴·공간이 현재와 다를 수 있어요."
+          },
+          "walk_note": "차량 약 10~20분 · 백남준아트센터 · 계획용 추정"
+        },
+        {
+          "time": "15:00",
+          "type": "산책",
+          "name": "백남준아트센터",
+          "one_liner": "백남준의 미디어 예술과 현재 열리는 전시를 함께 봅니다.",
+          "verified": true,
+          "detail": {
+            "what": "백남준의 미디어 예술과 현재 열리는 전시를 함께 봅니다. 민속촌 뒤에 실내 관람을 넣어 걷는 양을 조절했어요.",
+            "menu": [],
+            "why": "민속촌 뒤에 실내 관람을 넣어 걷는 양을 조절했어요.",
+            "hours": "10:00~18:00 · 월요일 휴관(공휴일 예외), 입장 마감 17:00",
+            "tips": "전시 교체기간에는 관람 구역이 달라질 수 있어요. 60~90분을 잡고 당일 전시를 확인해요.",
+            "source": "https://www.ggcf.kr/pages/NamJunePaikArtCenter"
+          },
+          "photo": {
+            "url": "images/nearby/ca738bd1-1a5f-438f-be07-eee7ef1d898f.jpg",
+            "alt": "백남준아트센터 풍경",
+            "caption": "백남준아트센터",
+            "source": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ca738bd1-1a5f-438f-be07-eee7ef1d898f",
+            "credit": "한국관광공사 대한민국 구석구석",
+            "note": "해당 여행지 소개 사진입니다. 촬영 계절과 현재 풍경은 다를 수 있어요."
+          },
+          "walk_note": "관람 뒤 차량 약 25~40분 · 용인중앙시장 · 계획용 추정"
         },
         {
           "time": "18:00",
           "type": "저녁",
-          "name": "추억의 꽁당보리밥 아산점",
-          "one_liner": "청국장 · 하루를 마무리하는 저녁",
-          "verified": false,
+          "name": "옛날경성순대국",
+          "one_liner": "옛날경성순대국 · 찰순대(소)",
+          "verified": true,
           "detail": {
-            "what": "추억의 꽁당보리밥 아산점에서 하루를 마무리하는 저녁 시간을 가져요. 청국장 보리밥, 담백한 고등어구이 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
+            "what": "옛날경성순대국에서 옛날경성순대국를 중심으로 주문해요. 공개 메뉴를 참고한 일정이며 가격과 판매 메뉴는 현장에서 확인합니다.",
             "menu": [
-              "청국장 보리밥",
-              "담백한 고등어구이",
-              "탱글탱글 도토리묵"
+              "옛날경성순대국",
+              "찰순대(소)",
+              "머릿고기(대)"
             ],
-            "why": "충청남도 아산시 온주길16번길 14 상가 1층 꽁당보리밥에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
-            "hours": "월·수·목·금·토·일 10:30–20:00",
-            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
-            "source": "https://www.diningcode.com/profile.php?rid=YfSbXZL5n8LL"
+            "why": "경기도 용인시 처인구 금령로85번길 20-10 옛날경성순대국 용인본점에 있는 실제 매장으로, 이날 방문하는 권역과 영업시간에 맞춰 배치했어요.",
+            "hours": "월-금 11:00-21:30 / 토/일 09:00-21:30",
+            "tips": "주말 대기·재료 소진과 임시휴무가 있을 수 있어요. 아래 쉬는 요일과 주문 마감 시간을 확인하고 방문하세요.",
+            "source": "https://www.diningcode.com/profile.php?rid=QgWOWXBpzQ6x"
           },
-          "walk_note": "숙소로 이동해 휴식 · 주차·체크인 시간 확인",
           "business": {
-            "hours": "월·수·목·금·토·일 10:30–20:00",
-            "closed_days": "화요일 (공개 주간표 기준)",
-            "break_time": "월·수·금·토·일 15:00–16:00",
-            "last_order": "월·수·금·토·일 19:15",
-            "address": "충청남도 아산시 온주길16번길 14 상가 1층 꽁당보리밥",
-            "phone": "041-541-0619",
-            "source": "https://www.diningcode.com/profile.php?rid=YfSbXZL5n8LL",
-            "checked_at": "2026-09-17",
-            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "hours": "월-금 11:00-21:30 / 토/일 09:00-21:30",
+            "closed_days": "정기휴무 없음으로 안내",
+            "break_time": "15:20 - 16:20 (요일별 차이·변동 가능)",
+            "last_order": "21:00 (요일별 차이·변동 가능)",
+            "special_hours": "확인된 날짜별 예외: 9월 25일(금) 휴무",
+            "address": "경기도 용인시 처인구 금령로85번길 20-10 옛날경성순대국 용인본점",
+            "phone": "0507-1303-0474",
+            "source": "https://www.diningcode.com/profile.php?rid=QgWOWXBpzQ6x",
+            "checked_at": "2026-09-19",
             "weekly": [
               {
-                "date": "오늘(목)",
-                "hours": "영업시간: 10:30 - 20:00"
-              },
-              {
-                "date": "9월 18일(금)",
-                "hours": "영업시간: 10:30 - 20:00 브레이크타임: 15:00 - 16:00 라스트오더: 19:15"
-              },
-              {
-                "date": "9월 19일(토)",
-                "hours": "영업시간: 10:30 - 20:00 브레이크타임: 15:00 - 16:00 라스트오더: 19:15"
+                "date": "오늘(토)",
+                "hours": "영업시간: 09:00 - 21:30"
               },
               {
                 "date": "9월 20일(일)",
-                "hours": "영업시간: 10:30 - 20:00 브레이크타임: 15:00 - 16:00 라스트오더: 19:15"
+                "hours": "영업시간: 09:00 - 21:30 브레이크타임: 15:20 - 16:20 라스트오더: 21:00"
               },
               {
                 "date": "9월 21일(월)",
-                "hours": "영업시간: 10:30 - 20:00 브레이크타임: 15:00 - 16:00 라스트오더: 19:15"
+                "hours": "영업시간: 11:00 - 21:30 브레이크타임: 15:20 - 16:20 라스트오더: 21:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 11:00 - 21:30 브레이크타임: 15:20 - 16:20 라스트오더: 21:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 11:00 - 21:30 브레이크타임: 15:20 - 16:20 라스트오더: 21:00"
+              },
+              {
+                "date": "9월 24일(목)",
+                "hours": "영업시간: 11:00 - 21:30 브레이크타임: 15:20 - 16:20 라스트오더: 21:00"
+              },
+              {
+                "date": "9월 25일(금)",
+                "hours": "휴무일"
+              }
+            ],
+            "closed_weekdays": []
+          },
+          "photo": {
+            "url": "images/nearby/venue-QgWOWXBpzQ6x.webp",
+            "alt": "옛날경성순대국 매장 게시 사진",
+            "caption": "옛날경성순대국 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=QgWOWXBpzQ6x",
+            "credit": "다이닝코드 · jiiuuygkk",
+            "note": "해당 매장 페이지에 게시된 방문 사진입니다. 촬영 시점에 따라 메뉴·공간이 현재와 다를 수 있어요."
+          },
+          "walk_note": "식사 후 숙소에서 휴식 · 숙소는 개별 예약"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "고기리 한 그릇과 보정동 커피",
+      "area": "고기동 · 보정동",
+      "steps": [
+        {
+          "time": "08:30",
+          "type": "아침",
+          "name": "양평해장국 기흥IC점",
+          "one_liner": "해장국 · 소고기국밥 · 같은 매장 재방문",
+          "verified": true,
+          "detail": {
+            "what": "양평해장국 기흥IC점에서 해장국를 중심으로 주문해요. 공개 메뉴를 참고한 일정이며 가격과 판매 메뉴는 현장에서 확인합니다.",
+            "menu": [
+              "해장국",
+              "소고기국밥",
+              "황태해장국"
+            ],
+            "why": "경기도 용인시 기흥구 원고매로 48에 있는 실제 매장으로, 이날 방문하는 권역과 영업시간에 맞춰 배치했어요.",
+            "hours": "화,수,목,금,토/일 05:00-17:00 / 월 05:00-15:00",
+            "tips": "주말 대기·재료 소진과 임시휴무가 있을 수 있어요. 아래 쉬는 요일과 주문 마감 시간을 확인하고 방문하세요. 같은 숙소 권역에서 다시 방문하는 식사예요. 다른 메뉴로 골라도 좋아요.",
+            "source": "https://www.diningcode.com/profile.php?rid=M80i6TIfVneO"
+          },
+          "business": {
+            "hours": "화,수,목,금,토/일 05:00-17:00 / 월 05:00-15:00",
+            "closed_days": "정기휴무 없음으로 안내",
+            "break_time": "별도 안내 없음 · 매장 확인",
+            "last_order": "별도 안내 없음 · 매장 확인",
+            "special_hours": "",
+            "address": "경기도 용인시 기흥구 원고매로 48",
+            "phone": "031-217-3311",
+            "source": "https://www.diningcode.com/profile.php?rid=M80i6TIfVneO",
+            "checked_at": "2026-09-19",
+            "weekly": [
+              {
+                "date": "오늘(토)",
+                "hours": "영업시간: 05:00 - 17:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 05:00 - 17:00"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 05:00 - 15:00"
+              },
+              {
+                "date": "9월 22일(화)",
+                "hours": "영업시간: 05:00 - 17:00"
+              },
+              {
+                "date": "9월 23일(수)",
+                "hours": "영업시간: 05:00 - 17:00"
+              },
+              {
+                "date": "9월 24일(목)",
+                "hours": "영업시간: 05:00 - 17:00"
+              },
+              {
+                "date": "9월 25일(금)",
+                "hours": "영업시간: 05:00 - 17:00"
+              }
+            ],
+            "closed_weekdays": []
+          },
+          "photo": {
+            "url": "images/nearby/venue-M80i6TIfVneO.webp",
+            "alt": "양평해장국 기흥IC점 매장 게시 사진",
+            "caption": "양평해장국 기흥IC점 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=M80i6TIfVneO",
+            "credit": "다이닝코드 · JORNAH",
+            "note": "해당 매장 페이지에 게시된 방문 사진입니다. 촬영 시점에 따라 메뉴·공간이 현재와 다를 수 있어요."
+          },
+          "walk_note": "차량 약 40~60분 · 고기리, 주말 대기 별도 · 계획용 추정"
+        },
+        {
+          "time": "11:00",
+          "type": "점심",
+          "name": "고기리막국수",
+          "one_liner": "원조 들기름막국수 · 들기름막국수",
+          "verified": true,
+          "detail": {
+            "what": "고기리막국수에서 원조 들기름막국수를 중심으로 주문해요. 공개 메뉴를 참고한 일정이며 가격과 판매 메뉴는 현장에서 확인합니다.",
+            "menu": [
+              "원조 들기름막국수",
+              "들기름막국수",
+              "비빔막국수"
+            ],
+            "why": "경기도 용인시 수지구 이종무로 157에 있는 실제 매장으로, 이날 방문하는 권역과 영업시간에 맞춰 배치했어요.",
+            "hours": "월,수,목,금 11:00-21:00 / 토/일 10:40-21:00",
+            "tips": "주말 대기·재료 소진과 임시휴무가 있을 수 있어요. 아래 쉬는 요일과 주문 마감 시간을 확인하고 방문하세요.",
+            "source": "https://www.diningcode.com/profile.php?rid=IyEWFMiXd2nG"
+          },
+          "business": {
+            "hours": "월,수,목,금 11:00-21:00 / 토/일 10:40-21:00",
+            "closed_days": "화요일 (공개 주간 운영표 기준)",
+            "break_time": "별도 안내 없음 · 매장 확인",
+            "last_order": "20:20 (요일별 차이·변동 가능)",
+            "special_hours": "",
+            "address": "경기도 용인시 수지구 이종무로 157",
+            "phone": "0507-1334-1107",
+            "source": "https://www.diningcode.com/profile.php?rid=IyEWFMiXd2nG",
+            "checked_at": "2026-09-19",
+            "weekly": [
+              {
+                "date": "오늘(토)",
+                "hours": "영업시간: 10:40 - 21:00"
+              },
+              {
+                "date": "9월 20일(일)",
+                "hours": "영업시간: 10:40 - 21:00 라스트오더: 20:20"
+              },
+              {
+                "date": "9월 21일(월)",
+                "hours": "영업시간: 11:00 - 21:00 라스트오더: 20:20"
               },
               {
                 "date": "9월 22일(화)",
@@ -282,7 +645,15 @@
               },
               {
                 "date": "9월 23일(수)",
-                "hours": "영업시간: 10:30 - 20:00 브레이크타임: 15:00 - 16:00 라스트오더: 19:15"
+                "hours": "영업시간: 11:00 - 21:00 라스트오더: 20:20"
+              },
+              {
+                "date": "9월 24일(목)",
+                "hours": "영업시간: 11:00 - 21:00 라스트오더: 20:20"
+              },
+              {
+                "date": "9월 25일(금)",
+                "hours": "영업시간: 11:00 - 21:00 라스트오더: 20:20"
               }
             ],
             "closed_weekdays": [
@@ -290,482 +661,86 @@
             ]
           },
           "photo": {
-            "url": "images/venues/YfSbXZL5n8LL.webp",
-            "alt": "추억의 꽁당보리밥 아산점 매장 페이지에 게시된 사진",
-            "caption": "추억의 꽁당보리밥 아산점 · 매장 사진",
-            "source": "https://www.diningcode.com/profile.php?rid=YfSbXZL5n8LL",
-            "credit": "다이닝코드 · 나인맘",
-            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
-            "checked_at": "2026-09-18"
-          }
-        }
-      ]
-    },
-    {
-      "day": 2,
-      "title": "돌담길을 걷고 온양에서 쉬기",
-      "area": "외암마을 · 온양",
-      "steps": [
-        {
-          "time": "09:00",
-          "type": "아침",
-          "name": "올갱이해장국",
-          "one_liner": "올갱이, 올갱이해장국 · 하루를 시작하는 아침 식사",
-          "verified": false,
-          "detail": {
-            "what": "올갱이해장국에서 하루를 시작하는 아침 식사 시간을 가져요. 올갱이아욱해장국, 올갱이아욱해장국 특 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
-            "menu": [
-              "올갱이아욱해장국",
-              "올갱이아욱해장국 특",
-              "안주-낙지 볶음(2인)"
-            ],
-            "why": "충남 아산시 삼동로 19 1층에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
-            "hours": "화·수·목·금·토·일 06:00–20:00",
-            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
-            "source": "https://www.diningcode.com/profile.php?rid=XcjMqNef9mf0"
+            "url": "images/nearby/venue-IyEWFMiXd2nG.webp",
+            "alt": "고기리막국수 매장 게시 사진",
+            "caption": "고기리막국수 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=IyEWFMiXd2nG",
+            "credit": "다이닝코드 · whois",
+            "note": "해당 매장 페이지에 게시된 방문 사진입니다. 촬영 시점에 따라 메뉴·공간이 현재와 다를 수 있어요."
           },
-          "walk_note": "다음: 외암민속마을 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
-          "business": {
-            "hours": "화·수·목·금·토·일 06:00–20:00",
-            "closed_days": "월요일 (공개 주간표 기준)",
-            "break_time": "화·수·금·토·일 14:00–16:00",
-            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
-            "address": "충남 아산시 삼동로 19 1층",
-            "phone": "041-533-4044",
-            "source": "https://www.diningcode.com/profile.php?rid=XcjMqNef9mf0",
-            "checked_at": "2026-09-17",
-            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
-            "weekly": [
-              {
-                "date": "오늘(목)",
-                "hours": "영업시간: 06:00 - 20:00"
-              },
-              {
-                "date": "9월 18일(금)",
-                "hours": "영업시간: 06:00 - 20:00 브레이크타임: 14:00 - 16:00"
-              },
-              {
-                "date": "9월 19일(토)",
-                "hours": "영업시간: 06:00 - 20:00 브레이크타임: 14:00 - 16:00"
-              },
-              {
-                "date": "9월 20일(일)",
-                "hours": "영업시간: 06:00 - 20:00 브레이크타임: 14:00 - 16:00"
-              },
-              {
-                "date": "9월 21일(월)",
-                "hours": "휴무일"
-              },
-              {
-                "date": "9월 22일(화)",
-                "hours": "영업시간: 06:00 - 20:00 브레이크타임: 14:00 - 16:00"
-              },
-              {
-                "date": "9월 23일(수)",
-                "hours": "영업시간: 06:00 - 20:00 브레이크타임: 14:00 - 16:00"
-              }
-            ],
-            "closed_weekdays": [
-              "월"
-            ]
-          },
-          "photo": {
-            "url": "images/venues/XcjMqNef9mf0.webp",
-            "alt": "올갱이해장국 매장 페이지에 게시된 사진",
-            "caption": "올갱이해장국 · 매장 사진",
-            "source": "https://www.diningcode.com/profile.php?rid=XcjMqNef9mf0",
-            "credit": "다이닝코드 · 도이",
-            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
-            "checked_at": "2026-09-18"
-          }
-        },
-        {
-          "time": "10:30",
-          "type": "산책",
-          "name": "외암민속마을",
-          "one_liner": "돌담 골목을 걸으며 마을의 풍경을 살펴봐요. 주민 생활 공간은 출입하지 않아요.",
-          "verified": false,
-          "detail": {
-            "what": "돌담 골목을 걸으며 마을의 풍경을 살펴봐요. 주민 생활 공간은 출입하지 않아요.",
-            "menu": [
-              "관람·산책·휴식 일정 제안"
-            ],
-            "why": "같은 권역에서 걷기와 식사를 이어가고 오후에는 쉬는 시간을 남겼어요.",
-            "hours": "방문 계획 시각 · 운영시간·휴무·입장료 확인 필요",
-            "tips": "온천 이용은 선택 사항이에요. 숙소의 온천수 제공 여부와 목욕 시설 운영을 확인하고 예약해요.",
-            "source": "https://tour.asan.go.kr/"
-          },
-          "walk_note": "다음: 외암파전 상전 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
-          "photo": {
-            "url": "images/scenic/3acb79245a88.jpg",
-            "alt": "외암민속마을 풍경",
-            "caption": "외암민속마을",
-            "source": "https://commons.wikimedia.org/wiki/File:Oeam_Folk_Village,_2006_(1).jpg",
-            "credit": "indytrucks (a flickr user)",
-            "license": "CC BY 2.0",
-            "license_url": "https://creativecommons.org/licenses/by/2.0",
-            "note": "출처 사진의 촬영 시점과 방문 시기의 풍경은 다를 수 있어요."
-          }
+          "walk_note": "차량 약 25~40분 · 보정동 카페거리 · 계획용 추정"
         },
         {
           "time": "13:00",
-          "type": "점심",
-          "name": "외암파전 상전",
-          "one_liner": "파전, 산채비빔밥 · 산책 사이에 쉬어가는 점심",
-          "verified": false,
+          "type": "카페",
+          "name": "스테이 어도러블",
+          "one_liner": "아메리카노 · 스테이라떼 · 산책 뒤 쉬어가기",
+          "verified": true,
           "detail": {
-            "what": "외암파전 상전에서 산책 사이에 쉬어가는 점심 시간을 가져요. 해물파전, 반반파전(해물+김치) 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
+            "what": "스테이 어도러블에서 음료를 마시며 잠시 쉬어가요. 다음 장소로 서두르지 않고 45~60분을 잡았습니다.",
             "menu": [
-              "해물파전",
-              "반반파전(해물+김치)",
-              "비빔국수"
+              "아메리카노",
+              "스테이라떼",
+              "라떼"
             ],
-            "why": "충청남도 아산시 송악면 외암로 1030-14 14동 1층에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
-            "hours": "매일 10:00–19:30",
-            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
-            "source": "https://www.diningcode.com/profile.php?rid=aOqcVQguhymv"
+            "why": "경기도 용인시 기흥구 죽전로43번길 15-3 1층에 있는 실제 매장으로, 이날 방문하는 권역과 영업시간에 맞춰 배치했어요.",
+            "hours": "매일 11:00-22:00",
+            "tips": "주말 대기·재료 소진과 임시휴무가 있을 수 있어요. 아래 쉬는 요일과 주문 마감 시간을 확인하고 방문하세요.",
+            "source": "https://www.diningcode.com/profile.php?rid=sxMCnTli8WiM"
           },
-          "walk_note": "다음: 온양 휴식·온천 선택 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
           "business": {
-            "hours": "매일 10:00–19:30",
-            "closed_days": "휴무 없음 (공개 주간표 기준)",
-            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
-            "last_order": "월·화·수·금·토·일 19:00",
-            "address": "충청남도 아산시 송악면 외암로 1030-14 14동 1층",
-            "phone": "041-541-2545",
-            "source": "https://www.diningcode.com/profile.php?rid=aOqcVQguhymv",
-            "checked_at": "2026-09-17",
-            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
+            "hours": "매일 11:00-22:00",
+            "closed_days": "정기휴무 없음으로 안내",
+            "break_time": "별도 안내 없음 · 매장 확인",
+            "last_order": "별도 안내 없음 · 매장 확인",
+            "special_hours": "",
+            "address": "경기도 용인시 기흥구 죽전로43번길 15-3 1층",
+            "phone": "0507-1318-2618",
+            "source": "https://www.diningcode.com/profile.php?rid=sxMCnTli8WiM",
+            "checked_at": "2026-09-19",
             "weekly": [
               {
-                "date": "오늘(목)",
-                "hours": "영업시간: 10:00 - 19:30"
-              },
-              {
-                "date": "9월 18일(금)",
-                "hours": "영업시간: 10:00 - 19:30 라스트오더: 19:00"
-              },
-              {
-                "date": "9월 19일(토)",
-                "hours": "영업시간: 10:00 - 19:30 라스트오더: 19:00"
+                "date": "오늘(토)",
+                "hours": "영업시간: 11:00 - 22:00"
               },
               {
                 "date": "9월 20일(일)",
-                "hours": "영업시간: 10:00 - 19:30 라스트오더: 19:00"
+                "hours": "영업시간: 11:00 - 22:00"
               },
               {
                 "date": "9월 21일(월)",
-                "hours": "영업시간: 10:00 - 19:30 라스트오더: 19:00"
+                "hours": "영업시간: 11:00 - 22:00"
               },
               {
                 "date": "9월 22일(화)",
-                "hours": "영업시간: 10:00 - 19:30 라스트오더: 19:00"
+                "hours": "영업시간: 11:00 - 22:00"
               },
               {
                 "date": "9월 23일(수)",
-                "hours": "영업시간: 10:00 - 19:30 라스트오더: 19:00"
+                "hours": "영업시간: 11:00 - 22:00"
+              },
+              {
+                "date": "9월 24일(목)",
+                "hours": "영업시간: 11:00 - 22:00"
+              },
+              {
+                "date": "9월 25일(금)",
+                "hours": "영업시간: 11:00 - 22:00"
               }
             ],
             "closed_weekdays": []
           },
           "photo": {
-            "url": "images/venues/aOqcVQguhymv.webp",
-            "alt": "외암파전 상전 매장 페이지에 게시된 사진",
-            "caption": "외암파전 상전 · 매장 사진",
-            "source": "https://www.diningcode.com/profile.php?rid=aOqcVQguhymv",
-            "credit": "다이닝코드 · 하늘호수속으로",
-            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
-            "checked_at": "2026-09-18"
-          }
-        },
-        {
-          "time": "15:00",
-          "type": "휴식",
-          "name": "온양 휴식·온천 선택",
-          "one_liner": "숙소에서 쉬거나 운영 중인 온천 시설을 선택해요. 시설과 이용료는 아직 정하지 않았어요.",
-          "verified": false,
-          "detail": {
-            "what": "숙소에서 쉬거나 운영 중인 온천 시설을 선택해요. 시설과 이용료는 아직 정하지 않았어요.",
-            "menu": [
-              "관람·산책·휴식 일정 제안"
-            ],
-            "why": "같은 권역에서 걷기와 식사를 이어가고 오후에는 쉬는 시간을 남겼어요.",
-            "hours": "방문 계획 시각 · 운영시간·휴무·입장료 확인 필요",
-            "tips": "온천 이용은 선택 사항이에요. 숙소의 온천수 제공 여부와 목욕 시설 운영을 확인하고 예약해요.",
-            "source": ""
+            "url": "images/nearby/venue-sxMCnTli8WiM.webp",
+            "alt": "스테이 어도러블 매장 게시 사진",
+            "caption": "스테이 어도러블 · 매장 사진",
+            "source": "https://www.diningcode.com/profile.php?rid=sxMCnTli8WiM",
+            "credit": "다이닝코드 · kelly02",
+            "note": "해당 매장 페이지에 게시된 방문 사진입니다. 촬영 시점에 따라 메뉴·공간이 현재와 다를 수 있어요."
           },
-          "walk_note": "다음: 달빛에구운고등어 아산온천점 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
-          "photo": {
-            "url": "images/scenic/682dee84d773.jpg",
-            "alt": "온양 시내 전경 · 온천 시설 사진 아님",
-            "caption": "온양 시내 전경 · 온천 시설 사진 아님",
-            "source": "https://commons.wikimedia.org/wiki/File:2009-09-25_-_Panorama_of_Onyang.jpg",
-            "credit": "Jpbarrass",
-            "license": "Public domain",
-            "note": "출처 사진의 촬영 시점과 방문 시기의 풍경은 다를 수 있어요.",
-            "kind": "area"
-          }
-        },
-        {
-          "time": "18:00",
-          "type": "저녁",
-          "name": "달빛에구운고등어 아산온천점",
-          "one_liner": "달빛, 반상(평일점심특선) · 하루를 마무리하는 저녁",
-          "verified": false,
-          "detail": {
-            "what": "달빛에구운고등어 아산온천점에서 하루를 마무리하는 저녁 시간을 가져요. 달빛, 반상(평일점심특선), 모듬구이 4인 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
-            "menu": [
-              "달빛, 반상(평일점심특선)",
-              "모듬구이 4인",
-              "[계절메뉴]고등어메밀소바"
-            ],
-            "why": "충청남도 아산시 온천동 78-6에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
-            "hours": "월·화·금·토·일 11:00–21:00",
-            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
-            "source": "https://www.diningcode.com/profile.php?rid=VhpSftCARnO5"
-          },
-          "walk_note": "숙소로 이동해 휴식 · 주차·체크인 시간 확인",
-          "business": {
-            "hours": "월·화·금·토·일 11:00–21:00",
-            "closed_days": "수·목요일 (공개 주간표 기준)",
-            "break_time": "월·화·금·토·일 15:00–17:00",
-            "last_order": "월·화·금·토·일 20:20",
-            "address": "충청남도 아산시 온천동 78-6",
-            "phone": "0507-1320-9309",
-            "source": "https://www.diningcode.com/profile.php?rid=VhpSftCARnO5",
-            "checked_at": "2026-09-17",
-            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
-            "weekly": [
-              {
-                "date": "오늘(목)",
-                "hours": "휴무일"
-              },
-              {
-                "date": "9월 18일(금)",
-                "hours": "영업시간: 11:00 - 21:00 브레이크타임: 15:00 - 17:00 라스트오더: 20:20"
-              },
-              {
-                "date": "9월 19일(토)",
-                "hours": "영업시간: 11:00 - 21:00 브레이크타임: 15:00 - 17:00 라스트오더: 20:20"
-              },
-              {
-                "date": "9월 20일(일)",
-                "hours": "영업시간: 11:00 - 21:00 브레이크타임: 15:00 - 17:00 라스트오더: 20:20"
-              },
-              {
-                "date": "9월 21일(월)",
-                "hours": "영업시간: 11:00 - 21:00 브레이크타임: 15:00 - 17:00 라스트오더: 20:20"
-              },
-              {
-                "date": "9월 22일(화)",
-                "hours": "영업시간: 11:00 - 21:00 브레이크타임: 15:00 - 17:00 라스트오더: 20:20"
-              },
-              {
-                "date": "9월 23일(수)",
-                "hours": "휴무일"
-              }
-            ],
-            "closed_weekdays": [
-              "수",
-              "목"
-            ]
-          },
-          "photo": {
-            "url": "images/venues/VhpSftCARnO5.webp",
-            "alt": "달빛에구운고등어 아산온천점 매장 페이지에 게시된 사진",
-            "caption": "달빛에구운고등어 아산온천점 · 매장 사진",
-            "source": "https://www.diningcode.com/profile.php?rid=VhpSftCARnO5",
-            "credit": "다이닝코드 · 모여봐요맛집으로",
-            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
-            "checked_at": "2026-09-18"
-          }
-        }
-      ]
-    },
-    {
-      "day": 3,
-      "title": "시장 구경으로 마무리",
-      "area": "온양온천시장 → 수원",
-      "steps": [
-        {
-          "time": "09:00",
-          "type": "아침",
-          "name": "올갱이해장국",
-          "one_liner": "올갱이, 올갱이해장국 · 하루를 시작하는 아침 식사",
-          "verified": false,
-          "detail": {
-            "what": "올갱이해장국에서 하루를 시작하는 아침 식사 시간을 가져요. 올갱이아욱해장국, 올갱이아욱해장국 특 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
-            "menu": [
-              "올갱이아욱해장국",
-              "올갱이아욱해장국 특",
-              "안주-낙지 볶음(2인)"
-            ],
-            "why": "충남 아산시 삼동로 19 1층에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
-            "hours": "화·수·목·금·토·일 06:00–20:00",
-            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
-            "source": "https://www.diningcode.com/profile.php?rid=XcjMqNef9mf0"
-          },
-          "walk_note": "다음: 온양온천시장 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
-          "business": {
-            "hours": "화·수·목·금·토·일 06:00–20:00",
-            "closed_days": "월요일 (공개 주간표 기준)",
-            "break_time": "화·수·금·토·일 14:00–16:00",
-            "last_order": "공개 시간표에 기재 없음 · 재료 소진 시 조기 마감 가능",
-            "address": "충남 아산시 삼동로 19 1층",
-            "phone": "041-533-4044",
-            "source": "https://www.diningcode.com/profile.php?rid=XcjMqNef9mf0",
-            "checked_at": "2026-09-17",
-            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
-            "weekly": [
-              {
-                "date": "오늘(목)",
-                "hours": "영업시간: 06:00 - 20:00"
-              },
-              {
-                "date": "9월 18일(금)",
-                "hours": "영업시간: 06:00 - 20:00 브레이크타임: 14:00 - 16:00"
-              },
-              {
-                "date": "9월 19일(토)",
-                "hours": "영업시간: 06:00 - 20:00 브레이크타임: 14:00 - 16:00"
-              },
-              {
-                "date": "9월 20일(일)",
-                "hours": "영업시간: 06:00 - 20:00 브레이크타임: 14:00 - 16:00"
-              },
-              {
-                "date": "9월 21일(월)",
-                "hours": "휴무일"
-              },
-              {
-                "date": "9월 22일(화)",
-                "hours": "영업시간: 06:00 - 20:00 브레이크타임: 14:00 - 16:00"
-              },
-              {
-                "date": "9월 23일(수)",
-                "hours": "영업시간: 06:00 - 20:00 브레이크타임: 14:00 - 16:00"
-              }
-            ],
-            "closed_weekdays": [
-              "월"
-            ]
-          },
-          "photo": {
-            "url": "images/venues/XcjMqNef9mf0.webp",
-            "alt": "올갱이해장국 매장 페이지에 게시된 사진",
-            "caption": "올갱이해장국 · 매장 사진",
-            "source": "https://www.diningcode.com/profile.php?rid=XcjMqNef9mf0",
-            "credit": "다이닝코드 · 도이",
-            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
-            "checked_at": "2026-09-18"
-          }
-        },
-        {
-          "time": "10:30",
-          "type": "산책",
-          "name": "온양온천시장",
-          "one_liner": "시장을 한 바퀴 둘러보고 점심을 먹은 뒤 돌아가요.",
-          "verified": false,
-          "detail": {
-            "what": "시장을 한 바퀴 둘러보고 점심을 먹은 뒤 돌아가요.",
-            "menu": [
-              "관람·산책·휴식 일정 제안"
-            ],
-            "why": "같은 권역에서 걷기와 식사를 이어가고 오후에는 쉬는 시간을 남겼어요.",
-            "hours": "방문 계획 시각 · 운영시간·휴무·입장료 확인 필요",
-            "tips": "온천 이용은 선택 사항이에요. 숙소의 온천수 제공 여부와 목욕 시설 운영을 확인하고 예약해요.",
-            "source": "https://tour.asan.go.kr/"
-          },
-          "walk_note": "다음: 홍두깨칼국수 · 주소로 길찾기 확인 · 다른 권역은 차량 이동",
-          "photo": {
-            "url": "images/scenic/tour-d9884e551439.jpg",
-            "alt": "온양온천시장 관광정보 사진",
-            "caption": "온양온천시장",
-            "source": "https://ontrip.kr/travel-guides/details/132495",
-            "credit": "한국관광공사 관광정보",
-            "note": "관광정보에 공개된 장소 사진이에요. 촬영 시점에 따라 현재 풍경과 다를 수 있어요."
-          }
-        },
-        {
-          "time": "12:00",
-          "type": "점심",
-          "name": "홍두깨칼국수",
-          "one_liner": "칼국수 · 산책 사이에 쉬어가는 점심",
-          "verified": false,
-          "detail": {
-            "what": "홍두깨칼국수에서 산책 사이에 쉬어가는 점심 시간을 가져요. 만두, 손칼국수 등 공개 메뉴를 참고해 주문하세요. 메뉴 구성과 가격은 매장에서 다시 확인해요.",
-            "menu": [
-              "만두",
-              "손칼국수",
-              "잔치국수"
-            ],
-            "why": "충청남도 아산시 시장남길 19에 있는 실제 매장이에요. 주소를 기준으로 이동하고, 주문 대기가 길면 다음 산책 시간을 줄여요.",
-            "hours": "월·화·수·목·금 09:30–19:30 / 토·일 09:00–20:00",
-            "tips": "휴무·브레이크타임·주문 마감은 아래 확인 자료 기준이에요. 임시휴무, 재료 소진, 명절 운영과 주차는 방문 전에 매장에 확인해요.",
-            "source": "https://www.diningcode.com/profile.php?rid=t475dVRA9ztv"
-          },
-          "walk_note": "식사 후 수원으로 출발 · 실시간 귀가 소요시간 확인",
-          "business": {
-            "hours": "월·화·수·목·금 09:30–19:30 / 토·일 09:00–20:00",
-            "closed_days": "휴무 없음 (공개 주간표 기준)",
-            "break_time": "공개 시간표에 기재 없음 · 방문 전 확인",
-            "last_order": "월·화·수·금 19:00 / 토·일 19:30",
-            "address": "충청남도 아산시 시장남길 19",
-            "phone": "041-546-0151",
-            "source": "https://www.diningcode.com/profile.php?rid=t475dVRA9ztv",
-            "checked_at": "2026-09-17",
-            "evidence": "다이닝코드 공개 매장정보와 2026.09.17–09.23 주간 시간표",
-            "weekly": [
-              {
-                "date": "오늘(목)",
-                "hours": "영업시간: 09:30 - 19:30"
-              },
-              {
-                "date": "9월 18일(금)",
-                "hours": "영업시간: 09:30 - 19:30 라스트오더: 19:00"
-              },
-              {
-                "date": "9월 19일(토)",
-                "hours": "영업시간: 09:00 - 20:00 라스트오더: 19:30"
-              },
-              {
-                "date": "9월 20일(일)",
-                "hours": "영업시간: 09:00 - 20:00 라스트오더: 19:30"
-              },
-              {
-                "date": "9월 21일(월)",
-                "hours": "영업시간: 09:30 - 19:30 라스트오더: 19:00"
-              },
-              {
-                "date": "9월 22일(화)",
-                "hours": "영업시간: 09:30 - 19:30 라스트오더: 19:00"
-              },
-              {
-                "date": "9월 23일(수)",
-                "hours": "영업시간: 09:30 - 19:30 라스트오더: 19:00"
-              }
-            ],
-            "closed_weekdays": []
-          },
-          "photo": {
-            "url": "images/venues/t475dVRA9ztv.webp",
-            "alt": "홍두깨칼국수 매장 페이지에 게시된 사진",
-            "caption": "홍두깨칼국수 · 매장 사진",
-            "source": "https://www.diningcode.com/profile.php?rid=t475dVRA9ztv",
-            "credit": "다이닝코드 · 언제올라내월급",
-            "note": "해당 매장에 게시된 방문 사진이에요. 촬영 시점에 따라 메뉴·공간은 현재와 다를 수 있어요.",
-            "checked_at": "2026-09-18"
-          }
+          "walk_note": "식사 후 수원으로 귀가 · 도로 정체에 따라 출발 시간 조절"
         }
       ]
     }
-  ],
-  "tips": [
-    "온천 이용은 선택 사항이에요. 숙소의 온천수 제공 여부와 목욕 시설 운영을 확인하고 예약해요.",
-    "수원 내 출발 위치와 교통에 따라 도착 시간이 달라져요. 약 1~2시간은 비혼잡 시간대의 계획용 추정치이며, 주말·연휴에는 2시간을 넘길 수 있어요.",
-    "사진은 추후 추가 예정이에요.",
-    "금요일 출발·일요일 귀가를 기준으로 매장 운영시간을 대조했어요. 출발 요일이 바뀌면 매장별 쉬는 요일부터 확인해 주세요.",
-    "영업시간과 휴무는 2026.09.17 공개 시간표 기준이에요. 임시휴무·명절 운영·재료 소진은 변동될 수 있어 출발 전 전화나 연결된 매장정보를 확인해 주세요.",
-    "다른 권역의 식당·카페는 차량 이동이 필요해요. 표시한 방문시각은 계획이며 대기와 교통 상황에 따라 산책 시간을 조정해요."
   ]
 }
